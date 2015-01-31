@@ -13,6 +13,9 @@ github_username:  jasonseeley
 markdown: kramdown
 permalink: pretty
 
+kramdown:
+  parse_block_html: true
+
 defaults:
 
   -
