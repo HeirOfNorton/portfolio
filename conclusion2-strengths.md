@@ -1,3 +1,7 @@
+---
+title: Conclusion - Strengths
+---
+
 Personal and Professional Strengths
 -----------------------------------
 

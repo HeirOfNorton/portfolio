@@ -1,3 +1,7 @@
+---
+title: Competency K
+---
+
 Competency K
 ------------
 

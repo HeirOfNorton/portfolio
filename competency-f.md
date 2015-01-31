@@ -1,3 +1,7 @@
+---
+title: Competency F
+---
+
 Competency F
 ------------
 

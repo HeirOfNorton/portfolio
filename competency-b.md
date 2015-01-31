@@ -1,3 +1,7 @@
+---
+title: Competency B
+---
+
 Competency B
 ------------
 

@@ -1,3 +1,7 @@
+---
+title: Competency D
+---
+
 Competency D
 ------------
 

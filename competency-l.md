@@ -1,3 +1,7 @@
+---
+title: Competency L
+---
+
 Competency L
 ------------
 

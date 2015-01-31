@@ -1,3 +1,7 @@
+---
+title: Affirmation
+---
+
 Affirmation
 ===========
 

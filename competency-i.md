@@ -1,3 +1,7 @@
+---
+title: Competency I
+---
+
 Competency I
 ------------
 

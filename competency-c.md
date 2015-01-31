@@ -1,3 +1,7 @@
+---
+title: Competency C
+---
+
 Competency C
 ------------
 

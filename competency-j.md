@@ -1,3 +1,7 @@
+---
+title: Competency J
+---
+
 Competency J
 ------------
 

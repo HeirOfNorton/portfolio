@@ -1,3 +1,7 @@
+---
+title: Competency A
+---
+
 Competency A
 ------------
 

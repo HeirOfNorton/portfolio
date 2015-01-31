@@ -1,3 +1,7 @@
+---
+title: Competency M
+---
+
 Competency M
 ------------
 

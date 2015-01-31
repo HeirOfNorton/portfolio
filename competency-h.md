@@ -1,3 +1,7 @@
+---
+title: Competency H
+---
+
 Competency H
 ------------
 
