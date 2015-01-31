@@ -1,2 +1,0 @@
-# portfolio
-MLIS Culminating Portfolio
