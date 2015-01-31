@@ -1,11 +1,7 @@
 ---
 title: Competency A
+competency: Each graduate of the Master of Library and Information Science program is able to articulate the ethics, values, and foundational principles of library and information professionals and their role in the promotion of intellectual freedom.
 ---
-
-Competency A
-------------
-
-#Each graduate of the Master of Library and Information Science program is able to articulate the ethics, values, and foundational principles of library and information professionals and their role in the promotion of intellectual freedom.#
 
 ##Meaning and Articulation of Competency##
 

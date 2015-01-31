@@ -1,11 +1,7 @@
 ---
 title: Competency N
+competency: Each graduate of the Master of Library and Information Science program is able to evaluate programs and services based on measurable criteria.
 ---
-
-Competency N
-------------
-
-#Each graduate of the Master of Library and Information Science program is able to evaluate programs and services based on measurable criteria.#
 
 ##Meaning and Articulation of Competency##
 

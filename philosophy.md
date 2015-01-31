@@ -2,9 +2,6 @@
 title: Statement of Professional Philosophy
 ---
 
-Statement of Professional Philosophy
-====================================
-
 I began my courses for the Master of Library and Information Science a little over two years ago with only a vague sense of what I would be doing, and a strong feeling for why I wanted this degree.
 I knew that I wanted to help people, that I wanted to be of service, but I was not completely sure specifically how I would do so.
 My fundamental value, my reason for beginning this program, was a dedication to service, and a desire for the skills to provide that service.

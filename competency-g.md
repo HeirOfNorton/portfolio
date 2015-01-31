@@ -1,11 +1,7 @@
 ---
 title: Competency G
+competenct: Each graduate of the Master of Library and Information Science program is able to demonstrate understanding of basic principles and standards involved in organizing information, including classification, cataloging, metadata, or other systems.
 ---
-
-Competency G
-------------
-
-#Each graduate of the Master of Library and Information Science program is able to demonstrate understanding of basic principles and standards involved in organizing information, including classification, cataloging, metadata, or other systems.#
 
 ##Meaning and Articulation of Competency##
 

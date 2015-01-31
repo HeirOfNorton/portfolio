@@ -1,9 +1,7 @@
 ---
-title: Conclusion - Strengths
+title: Conclusion (part 2)
+subtitle: Personal and Professional Strengths
 ---
-
-Personal and Professional Strengths
------------------------------------
 
 I began this MLIS program with a work history outside of LIS service, but which has prepared me with several strengths that will serve me well in the future.
 I am good at directing a team, leading them in the fulfillment of a project or a service, and pushing forward until the job is done.

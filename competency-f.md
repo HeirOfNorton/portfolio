@@ -1,11 +1,7 @@
 ---
 title: Competency F
+competency: Each graduate of the Master of Library and Information Science program is able to use the basic concepts and principles related to the selection, evaluation, organization, and preservation of physical and digital items and collections.
 ---
-
-Competency F
-------------
-
-#Each graduate of the Master of Library and Information Science program is able to use the basic concepts and principles related to the selection, evaluation, organization, and preservation of physical and digital items and collections.#
 
 ##Meaning and Articulation of Competency##
 

@@ -1,11 +1,7 @@
 ---
 title: Competency B
+competency: Each graduate of the Master of Library and Information Science program is able to describe and compare the organizational settings in which library and information professionals practice.
 ---
-
-Competency B
-------------
-
-#Each graduate of the Master of Library and Information Science program is able to describe and compare the organizational settings in which library and information professionals practice.#
 
 ##Meaning and Articulation of Competency##
 

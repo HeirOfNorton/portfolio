@@ -1,11 +1,7 @@
 ---
 title: Competency J
+competency: Each graduate of the Master of Library and Information Science program is able to describe the fundamental concepts of information-seeking behaviors.
 ---
-
-Competency J
-------------
-
-#Each graduate of the Master of Library and Information Science program is able to describe the fundamental concepts of information-seeking behaviors.#
 
 ##Meaning and Articulation of Competency##
 

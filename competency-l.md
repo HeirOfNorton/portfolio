@@ -1,11 +1,7 @@
 ---
 title: Competency L
+competency: Each graduate of the Master of Library and Information Science program is able to demonstrate understanding of quantitative and qualitative research methods and of the evaluation and synthesis of research literature.
 ---
-
-Competency L
-------------
-
-#Each graduate of the Master of Library and Information Science program is able to demonstrate understanding of quantitative and qualitative research methods and of the evaluation and synthesis of research literature.#
 
 ##Meaning and Articulation of Competency##
 

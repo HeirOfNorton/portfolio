@@ -1,11 +1,7 @@
 ---
 title: Competency K
+competency: Each graduate of the Master of Library and Information Science program is able to design instructional programs based on learning principles and theories.
 ---
-
-Competency K
-------------
-
-#Each graduate of the Master of Library and Information Science program is able to design instructional programs based on learning principles and theories.#
 
 ##Meaning and Articulation of Competency##
 

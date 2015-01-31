@@ -1,11 +1,7 @@
 ---
 title: Competency M
+competency: Each graduate of the Master of Library and Information Science program is able to demonstrate oral and written communication skills necessary for professional collaboration and presentations.
 ---
-
-Competency M
-------------
-
-#Each graduate of the Master of Library and Information Science program is able to demonstrate oral and written communication skills necessary for professional collaboration and presentations.#
 
 ##Meaning and Articulation of Competency##
 

@@ -1,12 +1,7 @@
 ---
-title: Conclusion - Reflection
+title: Conclusion
+subtitle: Reflection on MLIS Career
 ---
-
-Conclusion
-==========
-
-Reflection on MLIS Career
--------------------------
 
 As I have built and developed this portfolio, I cannot help but look back at my classes and see the common threads that were not apparent while I was taking them.
 All aspect of Library and Information Science are connected, I am learning, and often in ways that are not obvious.

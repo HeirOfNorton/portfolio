@@ -1,11 +1,7 @@
 ---
 title: Competency E
+competency: Each graduate of the Master of Library and Information Science program is able to design, query and evaluate information retrieval systems.
 ---
-
-Competency E
-------------
-
-#Each graduate of the Master of Library and Information Science program is able to design, query and evaluate information retrieval systems.#
 
 ##Meaning and Articulation of Competency##
 

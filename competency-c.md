@@ -1,11 +1,7 @@
 ---
 title: Competency C
+competency: Each graduate of the Master of Library and Information Science program is able to recognize and describe cultural and economic diversity in the clientele of libraries or information organizations.
 ---
-
-Competency C
-------------
-
-#Each graduate of the Master of Library and Information Science program is able to recognize and describe cultural and economic diversity in the clientele of libraries or information organizations.#
 
 ##Meaning and Articulation of Competency##
 

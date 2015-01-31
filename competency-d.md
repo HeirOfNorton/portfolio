@@ -1,11 +1,7 @@
 ---
 title: Competency D
+competency: Each graduate of the Master of Library and Information Science program is able to apply the fundamental principles of planning, management, marketing, and advocacy.
 ---
-
-Competency D
-------------
-
-#Each graduate of the Master of Library and Information Science program is able to apply the fundamental principles of planning, management, marketing, and advocacy.#
 
 ##Meaning and Articulation of Competency##
 

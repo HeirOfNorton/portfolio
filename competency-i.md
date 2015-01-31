@@ -1,11 +1,7 @@
 ---
 title: Competency I
+competency: Each graduate of the Master of Library and Information Science program is able to use service concepts, principles, and techniques to connect individuals or groups with accurate, relevant, and appropriate information.
 ---
-
-Competency I
-------------
-
-#Each graduate of the Master of Library and Information Science program is able to use service concepts, principles, and techniques to connect individuals or groups with accurate, relevant, and appropriate information.#
 
 ##Meaning and Articulation of Competency## 
 

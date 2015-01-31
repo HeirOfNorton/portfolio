@@ -2,9 +2,6 @@
 title: Introduction
 ---
 
-Introduction
-============
-
 I began my journey to complete my MLIS over two years ago with my first classes at San Jose State University.
 In that time I have learned more than I ever expected about library challenges, cataloging and database systems, the different kinds of information organizations, and above all, how best to serve my clients.
 This electronic portfolio represents this journey, and shows my growth and development as I have learned and mastered each of the major aspect of library and information science.

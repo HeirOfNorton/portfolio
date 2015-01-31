@@ -1,11 +1,7 @@
 ---
 title: Competency H
+competency: Each graduate of the Master of Library and Information Science program is able to demonstrate proficiency in identifying, using, and evaluating current and emerging information and communication technologies.
 ---
-
-Competency H
-------------
-
-#Each graduate of the Master of Library and Information Science program is able to demonstrate proficiency in identifying, using, and evaluating current and emerging information and communication technologies.#
 
 ##Meaning and Articulation of Competency##
 
