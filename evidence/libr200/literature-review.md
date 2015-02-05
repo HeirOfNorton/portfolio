@@ -4,7 +4,7 @@ subtitle: Literature Review
 date: Fall 2011
 instructor: Robert Boyd
 class: LIBR 200
-abstract:|
+abstract: |
     This literature review explores the research that has been published
     addressing developmental disabilities for libraries and information
     services. The subject as a whole is under researched, with relatively

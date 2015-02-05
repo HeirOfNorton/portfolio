@@ -3,7 +3,7 @@ title: Helping Patrons with Developmental Disabilities
 class: LIBR 200
 instructor: Robert Boyd
 date: Fall 2011
-abstract:|
+abstract: |
     An ever growing number of people are being diagnosed with developmental
     disabilities, and libraries need to keep up. This paper includes a
     review of the relevant literature related to offering services for

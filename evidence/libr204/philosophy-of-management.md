@@ -1,10 +1,10 @@
 ---
-title: Building a Strong Team:
+title: Building a Strong Team
 subtitle: A Philosophy of Management
 inst: Robert Boyd
 date: Fall 2011
 class: LIBR 204
-abstract:|
+abstract: |
     In my philosophy of management, true leadership depends on your ability
     to lead a great team. You must be able to recognize the skills needed
     when hiring, you must be able to get everyone getting along, and above
