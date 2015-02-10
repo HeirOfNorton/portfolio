@@ -190,7 +190,7 @@ community.
 
 <div class="references">
 
-References {#references .unnumbered}
+References
 ----------
 
 Agosto, D. E., & Hughes-Hassell, S. (2005). People, places, and

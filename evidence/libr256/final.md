@@ -257,7 +257,7 @@ both without reducing the possibilities of either.
 
 <div class="references">
 
-References {#references .unnumbered}
+References
 ----------
 
 Besser, H. (2013). Archiving aggregates of individually created digital

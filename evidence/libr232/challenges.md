@@ -261,7 +261,7 @@ way or another.
 
 <div class="references">
 
-References {#references .unnumbered}
+References
 ----------
 
 Austin, B. (2004). Should there be “privilege” in the relationship

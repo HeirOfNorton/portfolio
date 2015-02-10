@@ -199,6 +199,8 @@ libraries in the Twin Cities, with the need for a decision in late 2012
 regarding whether to sponsor its use or not. I think it would be a
 powerful addition to each library's arsenal.
 
+<div class="references">
+
 ##References
 
 Anoka County Library. (2011). Retrieved from:
@@ -209,3 +211,5 @@ AquaBrowser. (2011). Retrieved from:
 
 Ramsey County Libraries. (2011). Retrieved from:
 <http://www.rclreads.org/>
+
+</div>

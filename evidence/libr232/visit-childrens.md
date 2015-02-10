@@ -192,7 +192,7 @@ usable by the children in their communities.
 
 <div class="references">
 
-References {#references .unnumbered}
+References
 ----------
 
 Durusau, C. (2000). Collection development and maintenance. *Georgia
