@@ -32,9 +32,4 @@ defaults:
     values:
       layout: "evidence"
       author: "Jason M. Seeley"
-  -
-    scope:
-      path: "evidence/wiki"
-    values:
-      layout: "wiki"
-      author: "Jason M. Seeley"
+

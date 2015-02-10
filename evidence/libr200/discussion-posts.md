@@ -60,7 +60,7 @@ Rubin, R.E. (2010). _Foundationd of library and information science_. (3rd ed.) 
 
 </div>
 
-###Week 11 Discussion Post - Privelege in Libraries###
+##Week 11 Discussion Post - Privelege in Libraries##
 
 On the whole, I agree with the conclusion that Austin (2004) reached in that the relationship between librarian and patron is not privileged and cannot be so at this time. While librarians are certainly professionals, often with a great deal of education and research behind them, that background is too loosely defined and inconsistent from one librarian to the next, and there is too little formal oversight, for privilege to be realistic. This on top of the fact that most interactions are very much in public, where there would be no expectation of privilege to begin with. There is more to privilege than simply keeping one's mouth shut, and at this point it is too much to ask of most librarians.
 
