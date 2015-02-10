@@ -55,7 +55,7 @@ total library circulation.
 | Children's Circulation |    751,028|
 | Total Circulation      |  1,977,050|
 
-### Data sourced from Minnesota Department of Education (2011).
+**Data sourced from Minnesota Department of Education (2011).**
 
 Perusing the stacks at the library shows some interesting comparisons of
 the different parts of the collection. Though young adults (11-18) make
