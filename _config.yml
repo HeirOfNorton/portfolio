@@ -6,7 +6,7 @@ description: >
   my culminating experience for the Master's in Library and Information
   Science from San Jose State University.
 baseurl: "/portfolio"
-url: "http://jasonseeley.github.io" # the base hostname & protocol for your site
+url: "http://jasonseeley.github.io/portfolio" # the base hostname & protocol for your site
 github_username:  jasonseeley
 
 # Build settings
