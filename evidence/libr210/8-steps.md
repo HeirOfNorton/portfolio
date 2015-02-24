@@ -5,9 +5,13 @@ instructor: Cheryl Stemstrom
 date: Spring 2012
 ...
 
->   Note: this document was originally created at
->   <http://writingforteens.tumblr.com/8steps>.
->   The full text of the page is included below.
+<aside>
+
+Note: this document was originally created at
+<http://writingforteens.tumblr.com/8steps>.
+The full text of the page is included below.
+
+</aside>
 
 So you need to write a paper, but you're not sure how to do it!
 Oh no!
