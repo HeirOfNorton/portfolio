@@ -4,14 +4,15 @@ layout: default
 
 {% include sidenav.html %}
 
-<header class="page-header">
+<article>
+  <header>
   {% if page.title %}<h1 class="title">{{ page.title }}</h1>{% endif %}
   {% if page.subtitle %}<h1 class="subtitle">{{ page.subtitle }}</h1>{% endif %}
-</header>
-
-<article class="content">
+  </header>
+  
   {% if page.competency %}
     <blockquote class="competency"><p>{{ page.competency }}</p></blockquote>
   {% endif %}
+
   {{ content }}
 </article>

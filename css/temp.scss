@@ -1,0 +1,101 @@
+
+
+
+//main color/background/font/etc settings
+body {
+
+}
+
+//top navigation
+
+header {
+
+  //Site title
+  a {}
+  
+  //Top navigation
+  nav {
+    ul {
+      li {
+        a {}
+      }
+    }
+  }
+
+}
+
+//footer, with copyright stuff
+footer {
+  p {}
+}
+
+//side navigation
+
+nav.side-nav {
+  h2 {}
+  ul {
+    li {
+      a {}
+    }
+  }
+}
+
+//article stuff
+
+article {
+  h1.title {}
+  h1.subtitle {}
+  
+  blockquote.competency {
+    p {}
+  }
+  
+  //then content
+}
+
+article.evidence {
+
+  header {
+
+    h1.title {}
+    h1.subtitle {}
+    
+    div.authors {
+      p {}
+      ul {
+        li {}
+      }
+    }
+    
+    hr {}
+  }
+  
+  div.abstract {
+    h2 {}
+    p {}
+    hr {}
+  }
+}
+
+//the regular stuff
+
+article {
+  p {}
+  table {}
+  tr, td {}
+  
+  dd, dt {} //??
+  
+  aside {}
+  
+  .references {}
+  
+  blockquote {}
+  
+  ul, ol {}
+  
+  h1 {}
+  h2 {}
+  h3 {}
+  h4 {}
+}

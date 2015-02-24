@@ -4,7 +4,9 @@ layout: default
 
 {% include sidenav.html %}
 
-<header class="page-header">
+<article class="evidence">
+
+<header>
   {% if page.title %}<h1 class="title">{{ page.title }}</h1>{% endif %}
   {% if page.subtitle %}<h1 class="subtitle">{{ page.subtitle }}</h1>{% endif %}
   {% if page.authors %}
@@ -26,8 +28,6 @@ layout: default
   {% if page.date %}<p>{{ page.date }}</p>{% endif %}
   <hr>
 </header>
-
-<article class="evidence">
 
   {% if page.abstract %}
   <div class="abstract">
