@@ -56,6 +56,12 @@ worked together.
 
 ### First Piece of Evidence: Web 2.0 Children's Resources [presentation], LIBR 260A
 
+<aside>
+
+[Web 2.0: Group Presentation]({{ site.url }}/evidence/libr210/presentation/)
+
+</aside>
+
 I worked as a part of a group during my class on Programming and
 Services for Children, in the Spring of 2012. Our assignment was to
 present a variety of resources under a single topic, in a way that
@@ -121,6 +127,14 @@ not my preferred method of communicating, but it is one that I can
 accomplish.
 
 ### Second Piece of Evidence: Bibliographic Instruction Project (Chat Transcript and Group Self Assessment), LIBR 210
+
+<aside>
+
+[Transcript of Planning Chat Session]({{ site.url }}/evidence/libr210/chat-log/)
+
+[Group Self-Assessment]({{ site.url }}/evidence/libr210/self-assessment/)
+
+</aside>
 
 Another group in which I participated, one with a much larger project
 and one that dealt with much greater challenges, was in my Introduction

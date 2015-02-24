@@ -58,6 +58,12 @@ persons with developmental disabilities in libraries today.
 
 ### First Piece of Evidence: "Walking" A Local Neighborhood, LIBR 266
 
+<aside>
+
+[Neighborhood Walkabout]({{ site.url }}/evidence/libr266/walkabout/)
+
+</aside>
+
 The course I took on Collection Development in the Spring of 2013 was
 very concerned with the diverse need of different groups of users. We
 students were constantly reminded to be aware that the collection was
@@ -126,6 +132,12 @@ institution. In order to serve a community, it is necessary to know who
 is living in that community.
 
 ### Second Piece of Evidence: Visions of Youth Paper, LIBR 261A
+
+<aside>
+
+[Visions of Youth]({{ site.url }}/evidence/libr261a/visions-of-youth/)
+
+</aside>
 
 In the Fall of 2012, I took a course on services and collections
 specifically for teen and young adult patrons. In this course, the
@@ -197,6 +209,12 @@ attitudes toward teens with this project, I will endeavor to stay aware
 of my attitude toward any group that I serve in the future.
 
 ### Third Piece of Evidence: Patrons with Developmental Disabilities Paper, LIBR 200
+
+<aside>
+
+[Helping Patrons with Developmental Disabilities]({{ site.url }}/evidence/libr200/finalpaper/)
+
+</aside>
 
 Seven years ago I discovered that I fit all of the symptoms for
 Asperger's Syndrome, and I received an official diagnosis several months

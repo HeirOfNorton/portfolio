@@ -58,6 +58,12 @@ Public Library.
 
 ### First Piece of Evidence: Literature Review, LIBR 200
 
+<aside>
+
+[Literature Review]({{ site.url }}/evidence/libr200/literature-review/)
+
+</aside>
+
 In my academic career I have had a great deal of opportunity and
 experience in conducting library research and synthesizing the works I
 find, connecting different papers to related topics in order to discover
@@ -125,6 +131,12 @@ try to see the whole picture based on the different, and often not
 clearly related, evidence that does exist.
 
 ### Second Piece of Evidence: Research Proposal, LIBR 285
+
+<aside>
+
+[Research Proposal]({{ site.url }}/evidence/libr285/research-proposal/)
+
+</aside>
 
 My second piece of evidence for this competency comes from a class on
 Research Methods that I took during the Spring of 2012. One of the major
@@ -198,6 +210,12 @@ forward so that I can create programs and measure success based on
 genuine verifiable data, and not just guesswork and opinions.
 
 ### Third Piece of Evidence: Research Analysis of an Article, LIBR 285
+
+<aside>
+
+[Critique of a Qualitative Analysis]({{ site.url }}/evidence/libr285/qualitative-analysis/)
+
+</aside>
 
 The Research Methods course was not, naturally, only concerned with
 quantitative analysis. It was concerned with understanding all types of

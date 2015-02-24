@@ -59,6 +59,12 @@ access of materials.
 
 ### First Piece of Evidence: Collection Analysis, LIBR 266
 
+<aside>
+
+[Collection Analysis of a Public Library]({{ site.url }}/evidence/libr266/collectionanalysis/)
+
+</aside>
+
 In the Spring of 2013 I attended a course devoted to the different
 aspects and challenges of Collection Development. One project for this
 course was to thoroughly analyze the collection of a library or other
@@ -135,6 +141,12 @@ complete.
 
 ### Second Piece of Evidence: Teen Services Toolbox, LIBR 261A
 
+<aside>
+
+[YA Library Services Toolbox]({{ site.url }}/evidence/libr261a/toolbox/)
+
+</aside>
+
 The overview of Programming and Services for Young Adults I attended in
 the Fall of 2012 had a strong interest in the resources and materials to
 support these services, both resources for the YA collection and
@@ -206,6 +218,12 @@ decisions. With this experience, I can show that I know how to find the
 tools to make those decisions.
 
 ### Third Piece of Evidence: Final Exam (Archives), LIBR 256
+
+<aside>
+
+[Final Exam]({{ site.url }}/evidence/libr256/final/)
+
+</aside>
 
 My final piece of evidence for this competency comes from my class on
 Archives and Manuscripts, which I took over the Summer of 2013.

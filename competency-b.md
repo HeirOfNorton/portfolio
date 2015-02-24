@@ -50,6 +50,14 @@ discussion of its challenges.
 
 ### First and Second Pieces of Evidence: Public Library Site Visit, LIBR 232, and Middle School Library Environmental Analysis, LIBR 204
 
+<aside>
+
+[Library Visit - Reference Desk]({{ site.url }}/evidence/libr232/visit-reference/)
+
+[Strategic Plan for a Middle School, Part 1]({{ site.url }}/evidence/libr204/strategic-plan_part-1/)
+
+</aside>
+
 In the Spring of 2013, as part of a class exploring the issues faced by
 public libraries, I conducted a semi-formal visit of the Roseville
 Public Library in Roseville, MN. As a part of that visit, I also
@@ -165,6 +173,12 @@ environment in which it operates as the main factor for what will be
 allowed and expected of me.
 
 ### Third Piece of Evidence: Archive Tour, LIBR 256
+
+<aside>
+
+[Tour of the Charles Babbage Institute]({{ site.url }}/evidence/libr256/archivetour/)
+
+</aside>
 
 During the Summer of 2013 I took an introductory course to Archives and
 Manuscript collections, an area for which I have long held an interest.

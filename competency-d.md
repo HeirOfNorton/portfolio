@@ -64,6 +64,12 @@ library.
 
 ### First Piece of Evidence: Philosophy of Management, LIBR 204
 
+<aside>
+
+[Philosophy of Management]({{ site.url }}/evidence/libr204/philosophy-of-management/)
+
+</aside>
+
 One of the first courses in which I participated, in the Fall of 2011,
 was the core course on Information Organizations and Management. This
 was a survey of the many challenges facing information professionals,
@@ -132,6 +138,12 @@ career, I will never have to stand alone.
 
 ### Second Piece of Evidence: Archives Outreach Speech, LIBR 256
 
+<aside>
+
+[Archive Outreach Speech]({{ site.url }}/evidence/libr256/outreachspeech/)
+
+</aside>
+
 The principles management apply to all areas and all organizations that
 are involved in the information profession, as I learned during the
 Summer of 2013 during my course on Archives and archival institutions.
@@ -197,6 +209,12 @@ abstract. Marketing is about making connections, and I will continue to
 do what I can to build those connections to the right people.
 
 ### Third Piece of Evidence: Middle School Library Strategic Plan, LIBR 204
+
+<aside>
+
+[Strategic Plan for a Middle School, Part 2]({{ site.url }}/evidence/libr204/strategic-plan_part-2/)
+
+</aside>
 
 For any management task, or really any task that is more complicated
 than a single step, the ability to both develop and execute a plan of

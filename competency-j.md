@@ -62,6 +62,12 @@ underlying concepts and how they can be applied in practice.
 
 ### First Piece of Evidence: Article Review of Taylor (68)
 
+<aside>
+
+[Article Review]({{ site.url }}/evidence/noclass/review/)
+
+</aside>
+
 As I prepared for this portfolio, this competency gave me the most
 trouble in terms of selecting evidence to show my understanding and
 mastery. While I was confident that I understood the relevant concepts,
@@ -131,6 +137,12 @@ which is only possible if I understand my users better and collaborate
 with them as equal partners.
 
 ### Second Piece of Evidence: Advanced Reference Discussion Posts, LIBR 228
+
+<aside>
+
+[Discussion Posts]({{ site.url }}/evidence/libr228/discussion-posts/)
+
+</aside>
 
 While information seeking behavior is important for all aspects of
 information science, it is most apparent in the field of reference work.

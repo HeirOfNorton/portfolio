@@ -59,6 +59,12 @@ report comparing and critiquing two library children's departments.
 
 ### First Piece of Evidence: Online Reference Evaluation, LIBR 210
 
+<aside>
+
+[Report on Reference Services]({{ site.url }}/evidence/libr210/reference-report/)
+
+</aside>
+
 One of my earliest attempts to apply measurable goals, within my MLIS
 course of study, was during my beginning Reference Services class in the
 Spring of 2012. In one project for this class, I had to evaluate the
@@ -108,6 +114,12 @@ myself, and going forward I can see how to apply that same criteria in
 my own service.
 
 ### Second Piece of Evidence: Teen Program Elements Chart, LIBR 261A
+
+<aside>
+
+[Program Design Elements]({{ site.url }}/evidence/libr261a/program-design/)
+
+</aside>
 
 In the fall of 2012 I took a course on programs and services for young
 adults, and this course was very clear on the need for measurable and
@@ -171,6 +183,12 @@ measurable results. I have been able to make that connection with this
 project, and have a much better grasp on how to do so in the future.
 
 ### Third Piece of Evidence: Comparing Children's Departments, LIBR 232
+
+<aside>
+
+[Library Visit - Children's Area]({{ site.url }}/evidence/libr232/visit-childrens/)
+
+</aside>
 
 In the Spring of 2013 one of my courses was a survey of Issues in Public
 Libraries, and of course one of the greatest issues is measuring success

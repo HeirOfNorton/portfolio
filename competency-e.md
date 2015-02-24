@@ -50,6 +50,12 @@ article databases.
 
 ### First Piece of Evidence: Database of Supreme Court Justices, LIBR 202
 
+<aside>
+
+[Design for Database of Supreme Court Justices]({{ site.url }}/evidence/libr202/database/)
+
+</aside>
+
 One of the first courses I took in the MLIS program, in the Fall of
 2011, was a course specifically introducing information retrieval
 systems. One of the main projects for this course was the design of a
@@ -116,6 +122,12 @@ queries and the more complex requirements of relational databases.
 
 ### Second Piece of Evidence: Comparison of two OPACs, LIBR 202
 
+<aside>
+
+[OPAC Comparison]({{ site.url }}/evidence/libr202/comparison/)
+
+</aside>
+
 The introduction to Information Systems class was not limited to just
 databases, of course, nor to only the design side of these systems. A
 later project was to evaluate and compare two library Online Catalogs.
@@ -174,6 +186,12 @@ have to judge information systems in the future, I will always keep this
 in mind, and not rely only on my own experiences with them.
 
 ### Third Piece of Evidence: Database Research Pathfinder, LIBR 210
+
+<aside>
+
+[Research Using Databases]({{ site.url }}/evidence/libr210/research/)
+
+</aside>
 
 My final piece of evidence for this competency comes from a course on
 Reference Services I took in the Spring of 2012. One large project for

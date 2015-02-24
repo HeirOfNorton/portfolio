@@ -116,6 +116,14 @@ created, which also required me to organize the items involved.
 
 ### First and Second Pieces of Evidence: Cataloging Exercises and Cataloging a Human, LIBR 248
 
+<aside>
+
+[Cataloging Exercises]({{ site.url }}/evidence/libr248/cataloging-exercises/)
+
+[Cataloging a Human]({{ site.url }}/evidence/libr248/cataloging-human/)
+
+</aside>
+
 Most of the work I have done to learn metadata standards was during a
 Cataloging and Classification class I took during Fall semester of 2012.
 During the course we periodically had exercises in which we had to
@@ -168,6 +176,12 @@ software, I know the base "math" beneath them to understand what is
 being entered and why.
 
 ### Third Piece of Evidence: Report on Non-Book Cataloging, LIBR 248
+
+<aside>
+
+[Non-Book Cataloging at a Library]({{ site.url }}/evidence/libr248/nonbookitems/)
+
+</aside>
 
 The cataloging and classification course I took was concerned not only
 with the ideal standards of organization, but also the challenges faced
@@ -240,6 +254,12 @@ the best classification standard are useless if users cannot read or
 locate the number on the shelf.
 
 ### Fourth Piece of Evidence: Finding Aid Project, LIBR 256
+
+<aside>
+
+[Archival Finding Aid]({{ site.url }}/evidence/libr256/findingaid/)
+
+</aside>
 
 My last piece of evidence for this competency was created for an
 introductory class on Archives and Manuscripts that I took in the Summer

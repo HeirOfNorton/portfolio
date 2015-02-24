@@ -58,6 +58,12 @@ writing research essays.
 
 ### First Piece of Evidence: One Month Storytime Proposal, LIBR 260A
 
+<aside>
+
+[One-Month Storytime Plan]({{ site.url }}/evidence/libr260a/storytime/)
+
+</aside>
+
 In the Spring of 2012 I took a course on Programs and Services for
 Children. Because of the greater instructional needs of children, and
 because of the high number of school librarians in the class, this
@@ -120,6 +126,12 @@ based on their level of development, and to encourage their growth and
 learning with these answers and the resources they point to.
 
 ### Second Piece of Evidence: Training Session Plan, LIBR 261A
+
+<aside>
+
+[Outline for Training Session]({{ site.url }}/evidence/libr261a/training-outline/)
+
+</aside>
 
 After the class with Programming for Children, the following semester,
 the Fall of 2012, I attended a similar class with Programming and
@@ -189,6 +201,12 @@ and I plan to put this to use in designing training and instruction that
 benefits all users of my organization.
 
 ### Third Piece of Evidence: Writing Instruction Blog Post, LIBR 210
+
+<aside>
+
+[8 Steps to Writing a Paper]({{ site.url }}/evidence/libr210/8-steps/)
+
+</aside>
 
 Not all training and instruction is able to happen in person. While
 one-on-one instruction is usually the most effective, sometimes it is

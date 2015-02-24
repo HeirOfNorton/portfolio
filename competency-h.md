@@ -43,6 +43,12 @@ research guides.
 
 ### First Piece of Evidence: Discussion Posts, LIBR 204
 
+<aside>
+
+[Discussion Posts]({{ site.url }}/evidence/libr204/discussion-posts/)
+
+</aside>
+
 During my course on Information Management, from the Fall of 2011, there
 was a great deal of discussion about the place of new technologies and
 how they were altering information organizations and the services they
@@ -104,6 +110,12 @@ These technologies may be unavoidable, but often they should be embraced
 for the benefits they offer to an information organization.
 
 ### Second Piece of Evidence: E-Books in Public Libraries Paper, LIBR 266
+
+<aside>
+
+[E-Books in Public Libraries]({{ site.url }}/evidence/libr266/ebooks/)
+
+</aside>
 
 The most thorough and in-depth work I have had on different kinds of
 collections and library items was during the Spring of 2013, in a class
@@ -175,6 +187,12 @@ stay, and will only become a larger part of patrons' information needs.
 All we can do, for now, is try to keep up.
 
 ### Third Piece of Evidence: LibGuide Evaluation Project, LIBR 228
+
+<aside>
+
+[Comparison of Two LibGuides]({{ site.url }}/evidence/libr228/libguide-evaluation/)
+
+</aside>
 
 For this last piece of evidence, I explore a new version of an old
 system. For my Advanced Reference Services course in the Fall of 2012, I

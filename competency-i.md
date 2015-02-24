@@ -53,6 +53,18 @@ with information even when there is no reference interview possible.
 
 ### First Piece of Evidence: Reference Exercises, LIBR 210
 
+<aside>
+
+Reference Question Exercises:
+
+-   [Exercises #1]({{ site.url }}/evidence/libr210/exercises1/)
+-   [Exercises #2]({{ site.url }}/evidence/libr210/exercises2/)
+-   [Exercises #3]({{ site.url }}/evidence/libr210/exercises3/)
+-   [Exercises #4]({{ site.url }}/evidence/libr210/exercises4/)
+
+
+</aside>
+
 I began learning the ins and outs of reference services in the Beginning
 Reference class in Spring of 2012. While this class included many
 different resources that con be used to help clients find information,
@@ -201,6 +213,12 @@ they have to best and most appropriate information to which I have
 access.
 
 ### Second Piece of Evidence: LibGuide Project, LIBR 228
+
+<aside>
+
+[William Shakespeare: Research Pathfinder]({{ site.url }}/evidence/libr228/william-shakespeare/)
+
+</aside>
 
 In an ideal world, each user of library services would be able to work
 one-on-one with a librarian to find the information or resources they

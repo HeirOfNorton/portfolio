@@ -215,6 +215,12 @@ between their ideals and the reality of the law.
 
 ### First Piece of Evidence: Discussion Posts, LIBR 200
 
+<aside>
+
+[Discussion Posts]({{ site.url }}/evidence/libr200/discussion-posts/)
+
+</aside>
+
 In the Fall of 2011 I began my coursework for the MLIS, and in the
 Introduction to Library and Information Science I received my first
 formal introduction to the ethical questions and dilemmas that face LIS
@@ -278,6 +284,12 @@ professionals as this dichotomy continues to evolve.
 
 ### Second Piece of Evidence: Report on Library Challenges, LIBR 232
 
+<aside>
+
+[Challenges for Libraries]({{ site.url }}/evidence/libr232/challenges/)
+
+</aside>
+
 In the Spring of 2013 I took part in a survey course addressing Issues
 in Public Libraries, which had a particular focus on the difficulty of
 balancing ideals with practical realities. For one report late in the
@@ -333,6 +345,12 @@ opposition, or to compromise so that we can maintain the highest
 possible benefit for the most users.
 
 ### Third Piece of Evidence: Paper on Internet Filtering for Teen Patrons, LIBR 261A
+
+<aside>
+
+[Filtering Internet Use for Teen Patrons]({{ site.url }}/evidence/libr261a/internet-filtering/)
+
+</aside>
 
 I have found myself becoming an advocate for equal treatment of teens
 and young adults in their use of library materials and services. This is
