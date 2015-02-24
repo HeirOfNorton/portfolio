@@ -10,5 +10,8 @@ layout: default
 </header>
 
 <article class="content">
+  {% if page.competency %}
+    <blockquote class="competency"><p>{{ page.competency }}</p></blockquote>
+  {% endif %}
   {{ content }}
 </article>
