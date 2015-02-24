@@ -4,13 +4,19 @@ date: 11/20/2012
 title: Non-book Cataloging at Ramsey County Libraries
 ...
 
+<aside>
+
+**Note** - The names of real persons contacted have been censored due to privacy concerns.
+
+</aside>
+
 Introduction
 ------------
 
 For my exploration of non-book cataloging, I used the example of the Ramsey County library system.
 This is a large public library system with a total of seven branches throughout Ramsey County, Minnesota.
 It can be visited online at <www.rclreads.org>.
-I spoke to Nicole Herald, the Technical Services Manager of the library system.
+I spoke to N--- H---, the Technical Services Manager of the library system.
 I also visited the Roseville branch in Roseville Minnesota, the largest branch of the library system.
 The Roseville branch has a non-book collection of about 65,000 items, including multiple copies of a total of 44,000 individual titles.
 

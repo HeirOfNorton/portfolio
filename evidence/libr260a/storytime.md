@@ -1,9 +1,14 @@
 ---
 title: One Month Storytime Plan
 class: LIBR 260A
-instructor: Elizabeth Wrenn-Estes
 date: 03/28/12
 ...
+
+<aside>
+
+**Note** - The names of real persons contacted have been censored due to privacy concerns.
+
+</aside>
 
 ##Overview of the Library
 
@@ -13,7 +18,7 @@ eight branch locations and serves over 250,00 people. The Roseville
 branch is the largest library in the system. Renovated in 2010, it holds
 over 340,000 items and includes a community room that can sit up to 125
 people, where its storytimes are held ("Ramsey County Libraries" 2011).
-According to the library's branch manager Bill Michel, the Roseville
+According to the library's branch manager B--- M------, the Roseville
 branch serves as a hub and repository for the entire Ramsey County
 Library system, as well as the eight other library systems serving the
 Twin Cities (personal communication, Sep. 28, 2011). While it primarily
@@ -730,7 +735,7 @@ And all of the five little ducks came back.
 ﻿The farmer in the dell  
 The farmer in the dell  
 Hi-ho, the derry-o  
-The farmer in the dell  
+The farmer in the dell
 
 And the farmer takes a wife  
 The farmer takes a wife  

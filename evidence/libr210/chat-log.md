@@ -2,8 +2,14 @@
 class: LIBR 210
 date: '2012-03-12'
 title: 'Group D Planning (chat log)'
-instructor: Cheryl Stemstrom
 ...
+
+<aside>
+
+This chat log was created as part of a group project. All names of group members have
+been censored in the interest of privacy.
+
+</aside>
 
 <table>
 <tbody>

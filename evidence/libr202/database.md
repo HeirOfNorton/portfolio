@@ -1,7 +1,6 @@
 ---
 title: Database of Supreme Court Justices for History Students
 class: LIBR 202-12
-instructor: Nancy MacKay
 date: Fall 2011
 ...
 

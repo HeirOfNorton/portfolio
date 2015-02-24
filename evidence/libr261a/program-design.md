@@ -1,7 +1,6 @@
 ---
 title: Program Design Elements
 class: LIBR 261A
-instructor: Anthony Bernier
 date: Fall 2012
 ...
 

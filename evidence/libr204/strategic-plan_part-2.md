@@ -1,7 +1,7 @@
 ---
 abstract: |
     This document is the second in a series of two, detailing a strategic
-    plan for the Portola Middle School Media Center. In it the authors
+    plan for the P------ Middle School Media Center. In it the authors
     detail four goals and associated objectives for the media center,
     informed by the mission, vision, and values statements and environmental
     scan from part one of the strategic plan. These goals include the
@@ -15,22 +15,28 @@ abstract: |
     centers.
 class: LIBR 204
 date: '11/04/2011'
-title: 'Portola Middle School Media Center Strategic Plan (Part Two)'
+Authors:
+    - N------ B------
+    - A------ B------
+    - P------ D------
+    - K------ H------
+    - V------ J------
+    - Jason Seeley
+title: 'P------ Middle School Media Center Strategic Plan (Part Two)'
 ...
 
-Authors:
+<aside>
 
--   Nicole Barnabei
--   Allyson Bogie
--   Pamela Dixon
--   Karlin Hicks
--   Veronica Juarez-Carrillo
--   Jason Seeley
+This report was created as a group project. All names of group members,
+as well as identifying references to the Middle School invovled, have
+been censored in the interest of privacy.
+
+</aside>
 
 Part Two: Strategic Goals, Assessments, and Annotated Bibliography
 ------------------------------------------------------------------
 
-Part one of the strategic plan for the Portola Middle School Library
+Part one of the strategic plan for the P------ Middle School Library
 Media Center evaluated the center’s strengths, weaknesses,
 opportunities, and threats, as well as assessing environmental factors,
 and providing guidance on creating a mission, vision, and values
@@ -76,13 +82,13 @@ corrections will be made.
 
 ### Objective 1.2:
 
-*Develop an active, strong and effective volunteer base Portola Middle
+*Develop an active, strong and effective volunteer base P------ Middle
 School’s library. Volunteers can assist with daily library operations as
 well as special events. Volunteers can also serve as library advocates
 within the community and to the school district. Eventually, the
 volunteers will create a fundraising structure.*
 
-**Action Plan:** The head librarian will collaborate with Portola Middle
+**Action Plan:** The head librarian will collaborate with P------ Middle
 School’s Parent-Teacher-Student Association (PTSA) to recruit
 volunteers. Recruitment actions can include fliers sent home with
 students to attract interested volunteers, and emails to the PTSA e-tree
@@ -158,7 +164,7 @@ of how well the resource center helped support the lesson.
 
 ### Objective 2.3:
 
-*Strengthen partnerships with other West Contra Costa Unified School
+*Strengthen partnerships with other W------ School
 District libraries by working together on projects.*
 
 **Action Plan:** Collaborate with other librarians within the district
@@ -295,7 +301,7 @@ online.
 *Develop a committee for the future planning of the library’s new
 building.*
 
-**Action Plan:** Portola Middle School, including the library media
+**Action Plan:** P------ Middle School, including the library media
 center, will have a new building in three years. The librarian will
 create a committee within three months made up of school staff, parents,
 and students to seek input for the future library. This committee will
@@ -597,7 +603,7 @@ aid in meeting educators’ goals. Media literacy is a necessary skill in
 college-level education. By generating new users and educating current
 ones, these new formats can assist in the development of critical
 thinking and research skills and generate lifetime users. This served as
-a valuable tool when modeling our plan for the Portola Middle School
+a valuable tool when modeling our plan for the P------ Middle School
 library.
 
 <div class="references">

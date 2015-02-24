@@ -2,7 +2,6 @@
 title: Young Adult Library Services Toolbox
 date: 12/17/12
 class: LIBR 261A
-instructor: Anthony Bernier
 ...
 
 Introduction

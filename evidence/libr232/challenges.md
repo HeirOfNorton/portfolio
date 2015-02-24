@@ -1,10 +1,6 @@
 ---
-biblio-files: '/home/jason/docs/school/references'
-bibliography: '/home/jason/docs/school/references.bib'
 class: LIBR 232
-csl: 'apa.csl'
 date: '2013-03-06'
-instructor: 'Dr. Ruphina Ozoh'
 title: 'Changes and Challenges for Libraries in the Twenty-First Century'
 ...
 

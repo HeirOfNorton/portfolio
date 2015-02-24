@@ -1,7 +1,6 @@
 ---
 title: Building a Strong Team
 subtitle: A Philosophy of Management
-inst: Robert Boyd
 date: Fall 2011
 class: LIBR 204
 abstract: |

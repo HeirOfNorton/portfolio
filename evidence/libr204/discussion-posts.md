@@ -1,7 +1,6 @@
 ---
 title: Discussion Posts, LIBR 204
 date: Fall 2011
-instructor: Robert Boyd
 class: LIBR 204
 ...
 

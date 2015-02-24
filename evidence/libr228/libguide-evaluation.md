@@ -1,10 +1,6 @@
 ---
-biblio-files: '/home/jason/docs/school/references'
-bibliography: '/home/jason/docs/school/references.bib'
 class: LIBR 228
-csl: 'apa.csl'
 date: '11/12/12'
-instructor: Michelle Holschuh Simmons
 subtitle: 'A User-Centered Evaluation of Two LibGuides'
 title: Researching Literature
 ...

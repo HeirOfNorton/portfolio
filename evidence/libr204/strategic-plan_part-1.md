@@ -1,10 +1,18 @@
 ---
-title: Portola Middle School Library Strategic Plan (Part One)
+title: P------ Middle School Library Strategic Plan (Part One)
 class: LIBR 203
 date: Fall 2011
+Authors:
+    - N------ B------
+    - A------ B------
+    - P------ D------
+    - K------ H------
+    - V------ J------
+    - Jason Seeley
+
 abstract: |
     This report is the first of two parts comprising a strategic plan for
-    the Portola Middle School Library Media Center. The authors have
+    the P------ Middle School Library Media Center. The authors have
     conducted a literature review for the creation of a mission, vision, and
     values statement for a school library, including information on the
     necessity of these statements, and suggestions for what they should
@@ -14,37 +22,35 @@ abstract: |
     environmental scan for the media center, including analysis of
     demographics and funding, as well as an analysis of the media center's
     strength, weaknesses, opportunities, and threats. These resources when
-    combined provide Portola Middle School Library Media Center with the
+    combined provide P------ Middle School Library Media Center with the
     necessary tools to implement a strategic plan.
 ...
 
-Authors:
+<aside>
 
-*   Nicole Barnabei
-*   Allyson Bogie
-*   Pamela Dixon
-*   Karlin Hicks
-*   Veronica Juarez-Carrillo
-*   Jason Seeley
+This report was created as a group project. All names of group members,
+as well as identifying references to the Middle School invovled, have
+been censored in the interest of privacy.
 
+</aside>
 
-The Portola Middle School Library Media Center is located at Portola
-Middle School, part of the West Contra Costa Unified School District
-(WCCUSD). The school serves students from El Cerrito, Kensington,
-Richmond, and El Sobrante, California. Even though it is a small
+The P------ Middle School Library Media Center is located at P------
+Middle School, part of the W--- C------ School District
+(WCSD). The school serves students from E------, K------,
+R------, and E------, California. Even though it is a small
 library, it faces many of the same challenges of larger school and
 public libraries, as well as some unique to its own situation. The media
 center faces budget challenges, threats from competing schools, and
 difficulties stemming from working out of a temporary structure that is
 not large enough for its collection and students. At the same time, it
 is under pressure to perform as part of a larger school district with
-broader challenges. West Contra Costa Unified School District has a
+broader challenges. W--- C------ School District has a
 district library department strategic plan, and district goals and
 objectives. However, every school is unique, with some needs that are
 specific to the school. This strategic plan is being developed to
-respond to the particular needs and situation of the Portola Middle
+respond to the particular needs and situation of the P------ Middle
 School Library. In the plan, the terms “media center” and “library” will
-be used interchangeably to refer to the Portola Middle School Library
+be used interchangeably to refer to the P------ Middle School Library
 Media Center.
 
 ##Literature Review
@@ -237,7 +243,7 @@ databases and CD-ROMs. Ultimately, it supports the library and its staff
 when retrieving technological devices.
 
 Kelly and Joseph (2010) have created a youth services strategy that
-could be successfully applied to the Portola Middle School Library. A
+could be successfully applied to the P------ Middle School Library. A
 key emphasis of the Young Adult Library Services Association (YALSA)
 mission is providing youth with access to quality library services that
 fulfill both their educational and recreational needs. Teens should also
@@ -271,14 +277,14 @@ suggests guidelines for school library instructional planning, as well
 as links to several activities and classes that libraries can implement
 to help students develop the skills they need.
 
-##Mission, Vision, and Values Statements for the Portola Middle School
+##Mission, Vision, and Values Statements for the P------ Middle School
 Library Media Center
 
 ###Mission Statement
 
-The mission of the Portola Middle School Library Program is to foster
-information literacy and a love of reading in Portola students, and to
-provide a safe and supportive environment for Portola students to study,
+The mission of the P------ Middle School Library Program is to foster
+information literacy and a love of reading in P------ students, and to
+provide a safe and supportive environment for P------ students to study,
 research, read, collaborate, and relax. The library pursues this mission
 by providing access to print and digital resources, implementing
 scholastic and enrichment programming, collaborating with teachers, and
@@ -286,7 +292,7 @@ maintaining a safe and inviting physical space.
 
 ###Vision Statement
 
-All Portola Middle School students will be able to locate, utilize, and
+All P------ Middle School students will be able to locate, utilize, and
 cite appropriate information to respond to any academic or
 extra-curricular information need. All students will know how to select
 a pleasure reading book and will read on a daily basis. All members of
@@ -296,7 +302,7 @@ the library space.
 
 ###Values Statement
 
-We, the Portola Middle School Library staff, intend to uphold the
+We, the P------ Middle School Library staff, intend to uphold the
 mission and vision statement with certain values in mind:
 
 1.  We respect and value all students’ voices. We consider their needs,
@@ -332,65 +338,13 @@ mission and vision statement with certain values in mind:
 
 ###History and Demographics
 
-Although there had been native inhabitants before the area was explored
-by Gaspar de Portola, it was not until after the 1769 expedition when
-significant settlements began to appear in the area. By the late 1800’s
-the area was being used as grazing land for the San Francisco Dolores
-Mission and housed Francisco Castro’s Rancho San Pablo (El Cerrito
-Historical Society, 2005). The local population was small, consisting
-mainly of tenant farmers, ranchers and fishermen (El Cerrito Historical
-Society, 2005). In 1906 the San Francisco earthquake and its resulting
-fires nearly destroyed the city, leaving waves of refugees seeking
-places to go (Fradkin, 2005). Many refugees chose to stay in the area;
-by the time of El Cerrito’s incorporation in 1917 the area had almost
-fourteen hundred occupants. The area had grown to seven thousand
-occupants by the 1940’s but had earned a reputation as an area for
-gambling and dog racing. In 1945 efforts to improve El Cerrito’s image
-became the focus of local government transforming it into a family
-friendly community (El Cerrito Historical Society, 2005).
+<aside>
 
-Prior to World War II the local economy had been predominately
-agriculture. Walnut orchards, cattle ranching and general produce
-utilized most of the land in Contra Costa County (El Cerrito Historical
-Society, 2005). By the 1930’s the local economy began to expand beyond
-agriculture. Employment was available at docks in nearby communities
-like Richmond. During the war defense contract brought ship
-manufacturing jobs to cities along the coast. The shipyards occupied
-more than nine-hundred acres of Richmond shoreline and employed workers
-around the clock (Jamison & Armitage, 1996). During this period of
-growth Contra Costa County experienced a dramatic demographic shift.
-Large populations of people migrated to areas in need of defense labor.
-California saw high numbers of African-American families move from
-Texas, Arkansas, and Missouri. During this time the African American
-population in the county increased by almost 5000 percent (Jamison &
-Armitage, 1996). Although many of the migrating families settled in
-Richmond, El Cerrito did see a significant diversification of its
-population.
+Content removed to avoid identifying the Middle School involved. Note that
+I did not write this section, so this does not remove anything relevent
+from this portfolio.
 
-In the years after the war El Cerrito became more of a suburban
-community, with baby boomers finding affordable family homes. During the
-cold war era military defense contracts continued to pour money into
-local economies. Silicon Valley emerged as a new center of industry and
-attracted working professionals to the area (Laws, 2003). The community
-is still a predominately residential area with occupants commuting to
-San Francisco, Berkley, and Richmond.
-
-The 2010 Census reports that the population of El Cerrito is 53.3%
-White, 7.7% African American, 27.3% Asian, 11.1% Hispanic or Latino (of
-any race), and the remaining 0.5% a combination of Native American,
-Native Hawaiian or other Pacific Islander (US Census, 2010). Many
-residents of El Cerrito commute to neighboring Silicon Valley. Nearby
-employment in areas such as technology, biotechnology, and engineering
-have resulted in the city having a higher than average educational
-level. More than fifty-five percent of adults in El Cerrito have a
-bachelor’s degree or higher and twenty-two percent more have attended
-some college or a trade school. The city also has a higher than average
-amount of home owners. The 2010 Census found that more than ninety-seven
-percent of residents owned their own home. The median family income is
-69,397, in comparison to the national average of 50,046. El Cerrito has
-a population that reflects the national average but has almost twice the
-national average of second language speakers, most likely attributed to
-the higher than average educational level (US Census, 2010).
+</aside>
 
 ###Funding
 
@@ -438,55 +392,23 @@ Undoubtedly libraries face steep competition as a funding priority
 
 ###Economic Trends
 
-The Comprehensive Annual Financial Report conducted by the city found
-that despite several years of stability, the current recession has begun
-to affect El Cerrito (2010). Within the last ten years unemployment in
-the area has rapidly increased. In 2001 El Cerrito was more than one
-percent below the national average for unemployment at 3.1%, and by last
-year had ballooned to 9.2% (BLS, 2011). The recent Bureau of Labor
-Statistics projection has estimated this will continue to grow another
-1.9% by next year (BLS, 2011). The general condition of the economy has
-also affected local real estate development and the resulting tax
-revenues that directly support West Contra Costa County School District.
-Last year saw the suspension of several large developments within the
-city including large commercial projects which would have brought more
-jobs to the area (City of El Cerrito 2010). The majority of residents
-commute outside of El Cerrito for employment. Available employment
-opportunities within the city are limited and consist mainly of service
-occupations, local government, postal services, health care, and
-education (El Cerrito, 2010). Future employment growth within the city
-is heavily dependent upon the health of commercial real estate
-development. The city of El Cerrito is anticipating that this will take
-several years to stabilize (2010).
+<aside>
+
+Content removed to avoid identifying the Middle School involved. Note that
+I did not write this section, so this does not remove anything relevent
+from this portfolio.
+
+</aside>
 
 ###Political and Cultural Trends
 
-With the current state debt crisis, the state of California is facing
-intense political pressure to curb spending and decrease the deficit. In
-addition to state economic pressures, the federal deficit has recently
-mobilized financially conservative parties, placing pressure on funding
-for educational and social programs and opposing new tax measures.
-WCCUSD previously faced the possibility of severe cost cutting methods
-including layoffs and program cuts in 2004 when the first parcel tax
-measure failed to receive enough votes to pass (Zamora, 2004). The
-primary opposition came from local conservative groups that opposed any
-new tax initiatives (May, 2004). Taking into consideration the existing
-opinion regarding taxes, it is possible that the current parcel tax will
-face an even greater opposition when it comes up for renewal in 2012
-funding for the library is allocated by the total of students attending
-each school. With the recent decline in public school enrollments and
-the increasing popularity of private schools in El Cerrito, there is
-cause for concern. With the shrinking number of enrollments the pressure
-on librarians has increased. In this situation it will become more
-difficult to provide an effective library program on these smaller
-budgets.
+<aside>
 
-The school district is facing additional pressures from parent-lobby
-groups that are challenging the bussing of children from surrounding
-cities. Losing these additional students could result in devastating
-financial cuts for programs such as the library. Although the school is
-opposing the split, there are those in El Cerrito that feel these
-students are bringing social and cultural problems to the school.
+Content removed to avoid identifying the Middle School involved. Note that
+I did not write this section, so this does not remove anything relevent
+from this portfolio.
+
+</aside>
 
 ###Competitors
 
@@ -500,21 +422,21 @@ ability.
 
 ###Physical Location
 
-Portola Middle School is located in a primarily residential neighborhood
-in the town of El Cerrito, but it is in an area with multiple community
+P------ Middle School is located in a primarily residential neighborhood
+in the town of E------, but it is in an area with multiple community
 resources. Around the school are a private school, a park that is used
-by Portola students for physical education class and after-school
+by P------ students for physical education class and after-school
 sports, a community theater, a preschool, and a community center and
 swimming pool. The portables where the school is located are situated
 below the former school site, a building that is no longer in use due to
 seismic dangers. Construction will begin on a new school site in January
 2012, and the school is expected to occupy the new site at the beginning
-of the 2014-2015 school year (A. Bogie, personal communication, October
+of the 2014-2015 school year (A. B------, personal communication, October
 7, 2011).
 
 ##SWOT Analysis
 
-The Portola Middle School Library Media Center is considered by many
+The P------ Middle School Library Media Center is considered by many
 parents, faculty, and administrators to be one of the most welcoming and
 safe spaces on the campus. Although the library is housed in a double
 portable, the atmosphere is warm. The dull beige walls are covered in
@@ -522,8 +444,8 @@ student art, information about the school, and posters about reading and
 research. Colorful books fill the shelves and almost every shelf has a
 book turned outward on display. There are several rugs with comfortable
 beanbag chairs, and a variety of magazines to choose from (PTSA,
-personal communication, October 2011). The Portola librarian, Allyson
-Bogie, is also a co-author of this paper.
+personal communication, October 2011). The P------ librarian, A------
+B------, is also a co-author of this paper.
 
 ###Strengths
 
@@ -537,7 +459,7 @@ graders and one for eighth graders. Approximately 20% of the school
 population enters the library each day at lunch to read books and
 magazines, work on homework, use the computers, and play one of the 50
 board games and card games that are available for use in the library (A.
-Bogie, Personal communication, October 7, 2011). There is less need to
+B------, Personal communication, October 7, 2011). There is less need to
 recruit patrons than in a public library, because the students are a
 captive audience during the school day. At times, the library appears to
 be a community center with a lot of reading materials.
@@ -548,7 +470,7 @@ Junior Honor Society. The librarian is a leader on campus and has
 supported or developed these programs. There is also a motivational
 reading program: students can read a book, and then complete a review
 sheet. The sheets are then posted on a bulletin board to provide
-recommendations for other students to utilize (M. Burnham, personal
+recommendations for other students to utilize (M. B------, personal
 communication, October 2011).
 
 The library does benefit from strong support from administrators,
@@ -557,7 +479,7 @@ the librarian to develop projects and to be involved with the school,
 and provide the library with any possible funding to purchase materials.
 Teachers often get support from the librarian and encourage students to
 utilize the library’s resources. As a former middle school teacher, Ms.
-Bogie has both a teaching background and an ability to interact with
+B------ has both a teaching background and an ability to interact with
 students in a positive and supportive way. The parents provide support
 via funding from the Parent-Teacher-Student Association, donations of
 books and other materials, and volunteer and fundraising time.
@@ -565,7 +487,7 @@ books and other materials, and volunteer and fundraising time.
 The library has some funding available from the school district that can
 be used to purchase books and supplies. The exact amount will not be
 known until the budget is released from the district to the school in
-December 2011 or January 2012 (Personal communication with A. Strand,
+December 2011 or January 2012 (Personal communication with A. S------,
 October 15, 2011). The librarian also received a \$2,000 grant from
 Donor’s Choose in September 2010. The grant provided rugs, beanbag
 chairs, a printer, games, books, and small prizes that are used in
@@ -577,12 +499,12 @@ The entire school was moved out of its original building during summer
 2010 because the building is seismically unsafe. The school is contained
 in portable classrooms until the new building is built. The library is
 contained in two portables, and only has space for four tables and 30
-chairs (A. Bogie, Personal communication, October 7, 2011). During
+chairs (A. B------, Personal communication, October 7, 2011). During
 lunchtime or when a class is visiting the library, it is difficult to
 move around. The small space is inadequate to support the number of
 patrons who would like to utilize the library. At very busy times,
 students will arrive and then leave because they see that there is no
-available space. Many Portola classes have an enrollment of 36 students,
+available space. Many P------ classes have an enrollment of 36 students,
 so there is not enough space for an entire class to come into the
 library and work. There is only enough space to house the collection,
 and very little space for displays or information. The librarian does
@@ -591,7 +513,7 @@ several drawers, and two cupboards. Half of the counter space is taken
 up by two computers, a large laminating machine, and a student printer.
 The lack of space forces the librarian to spend time each day looking
 for places to store materials, and she cannot have multiple projects in
-progress at the same time (A. Bogie, personal communication, October 9,
+progress at the same time (A. B------, personal communication, October 9,
 2011).
 
 The library has poor technology and a small collection. The eight
@@ -601,24 +523,24 @@ until the school moves to the new campus. The library has 8,615 books
 (A. Strand, personal communication, October 12, 2011). Prior to the move
 the collection was larger, but one third of the books were weeded and
 discarded when the school moved out of its old building and into the
-campus of portables (D. Ramsey, personal communication, April 2011).
+campus of portables (D. R------, personal communication, April 2011).
 
 While there are some funding options as described in the section on
 strengths, public school funding in California is extremely limited at
 this time and the library has to make careful purchasing decisions. In
 addition, at times the school has to make very fast decisions about how
 to spend money, which doesn’t leave enough time to carefully consider
-the best purchases (A. Bogie, personal communication, October 18, 2011).
+the best purchases (A. B------, personal communication, October 18, 2011).
 California education funding is decreasing with the budget problems.
 
 The school day runs from 8:10 to 2:25, and the librarian’s hours are
 7:45-2:45. Approximately 1.5 hours of the seven hour day are taken up by
 the two different lunchtimes, and another 45 minutes is taken up by the
-Ms. Bogie’s breaks. This leaves less than five hours per day for her to
+Ms. B------’s breaks. This leaves less than five hours per day for her to
 complete projects, collaborate with teachers, check in and shelve books,
 and keep the library in order. A textbook manager assists with
 supervision and support during the lunch periods, but is not available
-during other times of day to help with library tasks (A. Bogie, personal
+during other times of day to help with library tasks (A. B------, personal
 communication, October 6, 2011).
 
 ###Opportunities
@@ -634,9 +556,9 @@ While there are some teachers who utilize the library’s resources for
 research and projects, many teachers never communicate with the
 librarian or bring their classes to the library. The librarian could
 initiate more collaboration with teachers, and provide whole-class
-information literacy instruction. Ms. Bogie planned one project with a
+information literacy instruction. Ms. B------ planned one project with a
 teacher during the previous school year and taught several information
-literacy and research lessons (K. Brewer, personal communication, May
+literacy and research lessons (K. B------, personal communication, May
 2011). It was a successful collaboration and could be repeated, although
 that teacher transferred to a different school.
 
@@ -647,11 +569,11 @@ This presents an opportunity for the library to design some programs
 that draw a wider range of students. If they library takes advantage of
 this opportunity they will be serving a larger portion of the school
 community. This could help make the library feel more essential to the
-school community (A. Bogie, personal communication, October 9, 2011).
+school community (A. B------, personal communication, October 9, 2011).
 
 The library could better take advantage of parent and student
 volunteers. Although several parents do volunteer, many others are
-interested. Ms. Bogie could take the initiative to contact each of these
+interested. Ms. B------ could take the initiative to contact each of these
 parents who have expressed interest and discuss their particular
 strengths and their availability. This presents an opportunity to have a
 weekly volunteer schedule of adults who could perform clerical tasks
@@ -660,7 +582,7 @@ library, and performing system cleanups on the computers. Student
 volunteers could shelve books, but most are not familiar with the
 shelving systems in the library. If students were trained in the
 library’s organization and cataloging systems, they could also help with
-the task of daily shelving (A. Bogie, personal communication, October
+the task of daily shelving (A. B------, personal communication, October
 19, 2011).
 
 Along with the rest of the school, the library will be moving into a new
@@ -675,7 +597,7 @@ manager will have the task of setting up the library to best utilize the
 space and continue the precedent of the library as an important
 community space on campus. Collaboration and co-teaching will be
 significantly easier when the library is moved into a new space, but
-this is still three years schools away (Go Portola!, 2011).
+this is still three years schools away (Go P------!, 2011).
 
 ###Threats
 
@@ -687,10 +609,10 @@ school day, and without the librarian the library would most likely be
 closed. If the library was defunded and kept open by volunteers, it
 would only serve the rudimentary function of checking out books to
 students. The librarian’s salary is funded by the parcel tax that will
-come up for re-election in 2013 (D. Van Hook, personal communication,
+come up for re-election in 2013 (D. V------, personal communication,
 September 2010).
 
-Portola Middle School is threatened by declining enrollment due to
+P------ Middle School is threatened by declining enrollment due to
 several factors. The school has had safety problems in the past, and
 safety has greatly improved but continues to be an area of concern. In
 May 2008, students threw rocks at a teacher when she would not admit
@@ -708,66 +630,53 @@ private schools, or found ways to send their students to neighboring
 schools in more affluent districts such as Albany. The local elementary
 schools used to go from kindergarten to fifth grade. They have now all
 added sixth grades, also contributing to declining enrollment at
-Portola, which used to have sixth grade students. It is now only seventh
-and eighth grade (K. Brewer, personal communication, November 2010).
-Declining enrollment at Portola threatens the library for two reasons.
+P------, which used to have sixth grade students. It is now only seventh
+and eighth grade (K. B------, personal communication, November 2010).
+Declining enrollment at P------ threatens the library for two reasons.
 The budget is affected because the school receives funding for each
 pupil. If enrollment declined enough, the school would be closed and
 consequently the library would close.
 
-Right now, a significant population of students comes from outside of El
-Cerrito. The bussing of students has created some conflict within the
-community, as these demographics from these areas are dramatically
-different from El Cerrito. Currently, only 38% of students live within
-the boundaries of the city (Portola Middle School Student Records,
-2011). More than half of the students, about 55% are brought from nearby
-Richmond. There are also another 6% brought from San Pablo and
-Kensington (Portola Middle School Student Records, 2011). There are
-several efforts in place to make the school more attractive to local El
-Cerrito families. A GATE parent committee is meeting regularly to ensure
-that students who are designated as “gifted and talented” are being
-adequately challenged in class (M. Burnham, personal communication,
-October 5, 2011). In addition, local elementary school parents have
-formed an organization called Go Portola! whose goal is to “increase the
-number of students staying in the district and increase the number of
-students and parents who are active in the PTSA at Portola, thereby
-making the school higher performing and a more desirable choice for
-families” (Go Portola!, 2011). The library has the opportunity to
-participate in these community efforts to improve academics at the
-school and increase enrollment.
+<aside>
 
-Ms. Bogie has a teaching credential but does not yet have a library
+Content removed to avoid identifying the Middle School involved. Note that
+I did not write this section, so this does not remove anything relevent
+from this portfolio.
+
+</aside>
+
+Ms. B------ has a teaching credential but does not yet have a library
 media specialist credential or a master’s degree in library and
 information science (MLIS). She works under an emergency librarian
 credential which is granted by the state when there is not a fully
 credentialed librarian who has applied for the job. As she proceeds
-through the MLIS program at San Jose State University, Ms. Bogie has
+through the MLIS program at San Jose State University, Ms. B------ has
 learned something in each class that is helping her to be a more
 effective librarian. A fully qualified librarian may be able to design a
 more robust library program based more fully on best practices for
 school libraries. Currently, she makes decisions for the library based
-on her teaching background and general work experience (A. Bogie,
+on her teaching background and general work experience (A. B------,
 personal communication, October 7, 2011).
 
 A last threat to the library is the salary and benefits structure in the
 school district. The librarian is paid on the same salary scale as
 teachers in the district, which is one of the lowest-paying districts in
 the San Francisco East Bay. The district health benefits are also
-becoming more expensive (WCCUSD, 2011). When Ms. Bogie completes her
+becoming more expensive (WCSD, 2011). When Ms. B------ completes her
 library media specialist credential and her MLIS, she may seek out a
 higher-paying position. The library has changed each time the librarian
-changes. Ms. Bogie was hired two weeks before school began for the
+changes. Ms. B------ was hired two weeks before school began for the
 2010-2011 school year, and her first day of work was the day before
 school began. She initially received no formal training and only several
 hours of informal training on using the computer system. When she first
 began, the library was the double portable with empty shelves, filled
 with 200 boxes of books and other materials. With no formal library
-experience and only one MLIS class completed, Ms. Bogie decided how to
+experience and only one MLIS class completed, Ms. B------ decided how to
 set up the library in the best possible configuration. It took almost an
 entire year of making decisions and adjustments to make the library as
 functional as possible in its small space.
 
-If Ms. Bogie stays in the position for an extended period of time, she
+If Ms. B------ stays in the position for an extended period of time, she
 can establish programs and procedures that will endure beyond her tenure
 as librarian. However, the way the school system is currently set up,
 she would not have the opportunity to train the new librarian. If she
@@ -776,7 +685,7 @@ again be starting from square one.
 
 ##Conclusion
 
-The Portola Middle School Library has a bright future despite its many
+The P------ Middle School Library has a bright future despite its many
 challenges. The school has a strong administrative, teaching, and
 library staff. While the resources may not be abundant, there is funding
 and support available that can help turn the vision into reality. Many
@@ -791,7 +700,7 @@ opportunities, and threats have guided the creation of a clear vision
 and mission. The newly developed mission and vision statements will
 provide a focused beginning point to develop clear objectives in part
 two of the strategic plan. Those objectives will shape the future of the
-library to help make it an indispensable part of the Portola Middle
+library to help make it an indispensable part of the P------ Middle
 School community.
 
 <div class="references">
@@ -821,9 +730,6 @@ http://www.treasurer.ca.gov/cdiac/
 Dougherty, R. M. (2002). Planning for New Library Futures. _Library
 Journal_, _127_(9), 38.
 
-El Cerrito Historical Society (El Cerrito, Calif.). (2005). El Cerrito.
-Charleston, SC: Arcadia.
-
 Flagg, G. (2000). Core values, outsourcing dominate agenda. (2000).
 _American Libraries_, _31_(8), 81-83.
 
@@ -834,8 +740,6 @@ California Press.
 Fugazzotto, S. (2009). Mission statements, physical space and strategy
 in higher education. _Innovative Higher Education_, _34_(5), 285-298. doi:
 10.1007/s10755-009-9118-z
-
-Go Portola! (2011). Retrieved from http://goportola.org/about/
 
 Harrington, T. (2011, February 3) Do California School Districts Spend
 Efficiently? Contra Costa Time. Retrieved from
@@ -874,9 +778,6 @@ Mihailidis, P., & Diggs, V. (2010). From Information Reserve to Media
 Literacy Learning Commons: Revisiting the 21st Century Library as the
 Home for Media Literacy Education. _Public Library Quarterly_, _29_(4),
 279-292. doi: 10.1080/01616846.2010.525389
-
-Portola Middle School. (2011). Student Records. Retrieved from
-http://powerschool.wccusd.net/admin/pw.html
 
 Rogers, J. (1998). Core values: Our common ground. _American Libraries_,
 _29_(9), 68-71.

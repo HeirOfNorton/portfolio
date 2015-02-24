@@ -1,7 +1,6 @@
 ---
 title: Group D - Self Assessment of Bibliographic Instruction Package
 class: LIBR 210
-instructor: Cheryl Stenstrom
 date: 4/24/12
 ...
 
@@ -51,7 +50,7 @@ learning styles to get the most out of it.
 The most frustrating experience, for me, came from the disagreements and
 outright personality conflicts that our group experienced while creating
 it. In particular, one of the other members of the group often dominated
-the direction that was chosen, and often dismissed our completely
+the direction that was chosen, and often dismissed or completely
 ignored suggestions to do something else. This became especially
 frustrating when the suggestions ignored were specifically the
 suggestions recommended by you to help improve and focus our designs.
@@ -62,7 +61,7 @@ refused to do any sort of presentation for the package, saying that they
 were "too boring to high schoolers," despite the fact that a
 presentation was described as a major part of the package in the
 instructions. I do not wish to vent, or to attempt to lay blame on
-another member of the group in the even that the package gets a low
+another member of the group in the event that the package gets a low
 grade. The creation of the instruction package often went in a direction
 with which I was not happy, but in the group I was outvoted, and I
 remain proud of the work I did in the end.

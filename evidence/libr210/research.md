@@ -1,14 +1,16 @@
 ---
 title: Research Using Databases
 class: LIBR 210
-instructor: Cheryl Stemstrom
 date: Spring 2012
 ...
 
->   Note: this document was originally created at
->   <http://writingforteens.tumblr.com/researchit>.
->   The full text of the page is reproduced below.
+<aside>
 
+**Note** - this document was originally created at
+<http://writingforteens.tumblr.com/researchit>.
+The full text of the page is reproduced below.
+
+</aside>
 
 So you need to research something for school, for a project, or just to learn about it.
 You have googled till you can't google no more, and Wikipedia just doesn't have what you need.

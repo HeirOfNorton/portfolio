@@ -2,7 +2,6 @@
 title: Fan Cultures as Need-Fulfilling Social Groups
 subtitle: A Proposal for Quantitative Study
 class: LIBR 285
-instructor: Suellen Adams
 date: 2012-05-12
 abstract: |
     This is a proposal for research to study members of fan communities. Fan communities, such as those around _Star Trek_ and _My Little Pony_, can attract large numbers of people, but they are often misunderstood and stigmatized by people outside of the community. In order to better understand them, this study proposes to conduct a broad survey of members of several fan communities. The survey will be used to determine the fans' level of participation in fandom related activities, as well as their personality traits, to determine if there are any common characteristics that could help explain the existence of fan communities in general. The author works from the hypothesis that fan communities fill a similar need as more traditional social groups such as churches and school clubs, but is not ruling out other explanations and will conduct the survey with no preconceptions in mind. The survey would be conducted over two to three months, using mostly web-based means.

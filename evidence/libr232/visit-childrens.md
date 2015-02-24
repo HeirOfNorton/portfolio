@@ -1,10 +1,6 @@
 ---
-biblio-files: '/home/jason/docs/school/references'
-bibliography: '/home/jason/docs/school/references.bib'
 class: LIBR 232
-csl: 'apa.csl'
 date: '2013-04-03'
-instructor: 'Dr. Ruphina Ozoh'
 subtitle: |
     A Comparison of the Minneapolis and Roseville Libraries' Children's
     Departments

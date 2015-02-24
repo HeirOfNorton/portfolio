@@ -1,16 +1,13 @@
 ---
 title: William Shakespeare
-subtitle: A libGuide
+subtitle: A LibGuide
 class: LIBR 228
 date: 2012-12-11
 ...
 
 <aside>
 
-This LibGuide was created in December of 2012 by Jason Seeley. It was a
-class project for LIBR 228 - Advanced Reference Services at San Jose
-State University. The original is (at the time of this writing) still
-available at <http://libraryschool.campusguides.com/shakespeare>. The
+This LibGuide was originally created at <http://libraryschool.campusguides.com/shakespeare>. The
 content of the LibGuide is reproduced below for this portfolio.
 
 </aside>
@@ -22,13 +19,13 @@ All about researching and writing about William Shakespeare, his works,
 and the context in which he wrote. This research guide is intended for
 students new to Shakespeare who need an idea of where to start.
 
-Tags
-:   16th century literature
-    17th century literature
-    english literature
-    literary criticism
-    literature
-    shakespeare
+**Tags**:
+*   16th century literature
+*   17th century literature
+*   english literature
+*   literary criticism
+*   literature
+*   shakespeare
 
 
 Guide Index

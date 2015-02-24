@@ -1,7 +1,6 @@
 ---
 title: How to Write a Paper in 8 Easy Steps!
 class: LIBR 210
-instructor: Cheryl Stemstrom
 date: Spring 2012
 ...
 

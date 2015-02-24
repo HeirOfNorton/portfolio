@@ -1,7 +1,4 @@
 ---
-biblio-files: '/home/jason/docs/school/references'
-bibliography: '/home/jason/docs/school/references.bib'
-csl: 'apa.csl'
 date: Fall 2013
 subtitle: A Review of Taylor from a Modern Perspective
 title: 'User-Centered Question Negotiation'

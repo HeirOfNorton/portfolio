@@ -3,7 +3,6 @@ title: The Internet Public Library
 subtitle: Critique of a Qualitative Study
 class: LIBR 285
 date: 2012-04-27
-instructor: Suellen Adams
 ...
 
 The Internet Public Library (www.ipl2.org) is a web site that has been around since 1995, and originally had the goal of gathering and sorting the many resources available on the web and helping librarians and the public search through them as well as a physical library helps them find books. Authors Maceli, Wiedenbeck, and Abels (2011) of Drexel University were unsure of how relevant the IPL still was in today's much more wired world, and set out to discover what people's perceptions were about the IPL itself, as well as about the idea of an Internet public library. They did this with a qualitative study, interviewing several students at their own university to discover the common elements of their perceptions and beliefs about the IPL.

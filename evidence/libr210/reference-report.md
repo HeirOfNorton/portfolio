@@ -1,7 +1,6 @@
 ---
 title: Report on Reference Services
 class: LIBR 210
-instructor: Cheryl Stemstrom
 date: Spring 2012
 ...
 

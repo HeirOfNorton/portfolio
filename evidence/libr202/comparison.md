@@ -1,7 +1,6 @@
 ---
 title: Ramsey County Library OPAC Compared to Anoka County Library
 class: LIBR 202-12
-instructor: Nancy McKay
 date: Fall 2011
 abstract: |
     The OPAC of the Ramsey County Library is evaluated, and compared to the

@@ -1,8 +1,14 @@
 ---
-title: Discussion Posts, LIBR 200
+title: Discussion Posts
+class: LIBR 200
 date: Fall 2011
-instructor: Robert Boyd
 ...
+
+<aside>
+
+**Note** - Some references to real persons have been censored due to privacy concerns.
+
+</aside>
 
 ##Week 2 Discussion Post - Ethical Dilemmas##
 
@@ -24,11 +30,11 @@ Rubin, R.E. (2010). _Foundations of library and information science_. (3rd ed.) 
 
 The Roseville Public Library, located in Roseville, Minnesota, is the largest branch of the Ramsey County Library system. According to the Ramsey County Library website (2011), the Roseville branch was first built in 1964 to serve as the headquarters of the system. It was remodeled in 1981, rebuilt in 1993, and remodeled again in 2010. The newest version of the building is large and modern, with an open floor featuring islands of new books and recommendations from the staff, halls leading to the Children and Teen sections, and a large staircase in the center leading to the adult fiction and non-fiction on the second floor. There are large banks of computers, as well as wifi access throughout the building. Large collections of DVDs and audio books also dominate the central floor, and a coffee shop is connected as a wing to cater to the tastes of their patrons.
 
-I met with the Library Branch Manager, Bill Michel (2011), to discuss the library and the direction it is going. Mr. Michel has been manager for four years, but has been working in the Ramsey County Libraries for thrity-six years, starting while he was still a student on a temporary assignment. He informed me that the Rosevile library serves as a backup depository for not only the Ramsey County library system, but also the eight other county library systems that serve the Twin Cities. The Roseville branch primarily serves a population of about 75,000 people, but in practice it can serve as many as 250,000 in its role as central hub.
+I met with the Library Branch Manager, B--- M------ (2011), to discuss the library and the direction it is going. Mr. M------ has been manager for four years, but has been working in the Ramsey County Libraries for thrity-six years, starting while he was still a student on a temporary assignment. He informed me that the Rosevile library serves as a backup depository for not only the Ramsey County library system, but also the eight other county library systems that serve the Twin Cities. The Roseville branch primarily serves a population of about 75,000 people, but in practice it can serve as many as 250,000 in its role as central hub.
 
-With that large a user base, Mr. Michel told me that his library's biggest challenge by far is inadequate staffing. The Roseville library employs about 35-40 people, though fewer than half that number are full time, and also has about 80 volunteers at any given time. This is barely two thirds of the average staffing level of other comparable libraries in the Twin Cities, and still less than the estimated number needed to serve the community to their fullest ability. Ramsey County has been "really lean" as he said, and while they have not had any layoffs, they are also not filling vacancies as they open due to people retiring or otherwise moving on.
+With that large a user base, Mr. M------ told me that his library's biggest challenge by far is inadequate staffing. The Roseville library employs about 35-40 people, though fewer than half that number are full time, and also has about 80 volunteers at any given time. This is barely two thirds of the average staffing level of other comparable libraries in the Twin Cities, and still less than the estimated number needed to serve the community to their fullest ability. Ramsey County has been "really lean" as he said, and while they have not had any layoffs, they are also not filling vacancies as they open due to people retiring or otherwise moving on.
 
-Even with the low staff, the Rosevile library has a number of programs to serve their community of which Mr. Michel is proud. For the last five years they have offered information literacy classes of all levels, ranging from beginning computer use to Health Services and eBook use. They also colaborate with the Metro Library Service Agency, or MeLSA, to offer Jobseeker classes, and have begun cooperating with the Science Museum of Minnesota to offer classes there as well. Looking forward, they plan to stay proactive in providing new and better services to their patrons, and specifically are trying to strengthen their Children's and Teen's services while deemphasizing their desk services. They remain a primary source of information and entertainment for their community.
+Even with the low staff, the Rosevile library has a number of programs to serve their community of which Mr. M------ is proud. For the last five years they have offered information literacy classes of all levels, ranging from beginning computer use to Health Services and eBook use. They also colaborate with the Metro Library Service Agency, or MeLSA, to offer Jobseeker classes, and have begun cooperating with the Science Museum of Minnesota to offer classes there as well. Looking forward, they plan to stay proactive in providing new and better services to their patrons, and specifically are trying to strengthen their Children's and Teen's services while deemphasizing their desk services. They remain a primary source of information and entertainment for their community.
 
 <div class="references">
 

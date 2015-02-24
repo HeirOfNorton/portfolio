@@ -1,10 +1,6 @@
 ---
-biblio-files: '/home/jason/docs/school/references'
-bibliography: '/home/jason/docs/school/references.bib'
 class: LIBR 256
-csl: 'apa.csl'
 date: '2013-08-10'
-instructor: Erin Lawrimore
 title: Final Exam
 ...
 

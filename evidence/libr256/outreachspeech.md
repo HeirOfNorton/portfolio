@@ -1,6 +1,5 @@
 ---
-class: LIBR 256  
-instructor: Erin Lawrimore  
+class: LIBR 256
 date: 2013-07-28
 title: "Archivists: The Hows and Whys"
 subtitle: (Outreach Speech)

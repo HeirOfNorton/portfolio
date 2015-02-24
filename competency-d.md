@@ -216,6 +216,13 @@ do what I can to build those connections to the right people.
 
 </aside>
 
+<aside>
+
+**Note** - References to the Middle School have been censored to protect
+the privacy of the group member involved with the project.
+
+</aside>
+
 For any management task, or really any task that is more complicated
 than a single step, the ability to both develop and execute a plan of
 action is of great importance to ensuring success. I have learned this
@@ -236,7 +243,7 @@ it is then important to develop a goal, with a specific outcome that the
 plan is meant to accomplish. In a professional setting this goal must be
 specific, defined by the environment, and measurable, so that success or
 failure can be determined without question. The group with which I
-worked performed an environmental scan and SWOT analysis of the Portola
+worked performed an environmental scan and SWOT analysis of the P------
 Middle School Library in an earlier project, and the results of this
 project were used to develop the goals and hoped-for outcomes of this
 strategic plan. We followed the guidelines for project planning

@@ -1,10 +1,6 @@
 ---
-biblio-files: '/home/jason/docs/school/references'
-bibliography: '/home/jason/docs/school/references.bib'
 class: LIBR 266
-csl: 'apa.csl'
 date: '05/13/13'
-instructor: Wayne Disher
 title: 'Making Peace with E-Books in Public Libraries'
 ...
 

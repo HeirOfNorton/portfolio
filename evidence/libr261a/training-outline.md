@@ -1,10 +1,6 @@
 ---
-biblio-files: '/home/jason/docs/school/references'
-bibliography: '/home/jason/docs/school/references.bib'
 class: LIBR 261A
-csl: 'apa.csl'
 date: '10/20/2012'
-instructor: Anthony Bernier
 title: 'Outline for One-Hour YA Spaces Training Session for Library Staff'
 ...
 

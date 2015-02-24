@@ -1,7 +1,6 @@
 ---  
 class: LIBR 266  
 date: 02/12/13
-instructor: Wayne Disher
 title: Going Walkabout
 ...
 

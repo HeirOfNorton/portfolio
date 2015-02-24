@@ -1,10 +1,6 @@
 ---
-biblio-files: '/home/jason/docs/school/references'
-bibliography: '/home/jason/docs/school/references.bib'
 class: LIBR 266
-csl: 'apa.csl'
 date: '2013-03-24'
-instructor: Wayne Disher
 title: Collection Analysis of the Roseville Public Library
 ...
 

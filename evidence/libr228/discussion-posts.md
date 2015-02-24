@@ -4,7 +4,6 @@ bibliography: '/home/jason/docs/school/references.bib'
 class: LIBR 228
 csl: 'apa.csl'
 date: Fall 2012
-instructor: Michelle Holschuh Simmons
 title: Discussion Posts
 ...
 

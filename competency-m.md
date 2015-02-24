@@ -62,6 +62,13 @@ worked together.
 
 </aside>
 
+<aside>
+
+**Note** - The names of my fellow team members have been censored
+to protect their privacy.
+
+</aside>
+
 I worked as a part of a group during my class on Programming and
 Services for Children, in the Spring of 2012. Our assignment was to
 present a variety of resources under a single topic, in a way that
@@ -79,7 +86,7 @@ them.
 Our group worked well together, though much of our work was done
 separately and only brought together at the end. By this point, I had
 been a team lead at my day job for several years, and I was quite
-content to let Jessica take the lead in our group so that I could
+content to let J------ take the lead in our group so that I could
 concentrate on my own part without worrying about keeping everyone on
 track. The only direct collaboration my team really did was at the very
 beginning, choosing the topic and splitting up the responsibility, and

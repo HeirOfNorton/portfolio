@@ -58,6 +58,13 @@ discussion of its challenges.
 
 </aside>
 
+<aside>
+
+**Note** - References to the Middle School have been censored to protect
+the privacy of the group member involved.
+
+</aside>
+
 In the Spring of 2013, as part of a class exploring the issues faced by
 public libraries, I conducted a semi-formal visit of the Roseville
 Public Library in Roseville, MN. As a part of that visit, I also
@@ -66,7 +73,7 @@ librarians on staff. They were able to give me great insight into the
 specific problems they face in a public library. In an earlier class,
 Information Management from the Fall of 2011, a group I was a part of
 conducted a similarly detailed analysis of a small Middle School library
-in El Cerrito, CA. One of the other group members was the
+in E------, CA. One of the other group members was the
 managing---actually, the only---librarian for the media center, and she
 was able to offer similar insight into the workings of the library as
 the branch manager at the Roseville Library. As part of the group, I
@@ -91,14 +98,14 @@ manager who is assigned to the reference desk once a week. The biggest
 challenge the library faces, then, is how to best allocate scarce
 resources among many different departments.
 
-The Portola Middle School Library Media Center is significantly smaller,
+The P------ Middle School Library Media Center is significantly smaller,
 though just as busy thanks to even scarcer resources. Due to
 renovations, the media center is actually currently housed in two large
 storage containers, with space very much at a premium. The library
 currently only has one person on staff, a single librarian who, at the
 time of analysis, had not yet received her MLIS degree. Additional needs
 are met, when possible, by student volunteers, though most of the time
-the librarian is on her own. The Portola Middle School, and thus its
+the librarian is on her own. The P------ Middle School, and thus its
 library, serves young adolescents from several nearby towns, most of
 whom are bussed in from their homes, while many residents of the town in
 which the school is located end up attending other, private schools. The
@@ -116,7 +123,7 @@ account. Both serve as major centers of activity for their communities,
 both are primarily concerned with direct service to their patrons, and
 both face great challenges due to their small budgets. The priorities
 for a public library described by Pacios (2007) are certainly true of
-the Roseville library,a nd are largely true of the Portola Middle School
+the Roseville library,a nd are largely true of the P------ Middle School
 Library. They are dedicated to the lifelong learning of their patrons, a
 priority that is even more significant for a school library, and they
 both do what they can within their budgets to build a thorough
@@ -125,11 +132,11 @@ collection that serves the diverse need of their patrons.
 The biggest differences, then, are the environments in which the
 libraries work, and the limits within which they have to function. Most
 obvious is their clientele, with public libraries like Roseville serving
-all ages and school libraries like Portola only serving the age groups
+all ages and school libraries like P------ only serving the age groups
 that attend the connected school. Less obvious, though if anything more
 important, is the source and origin of their clientele. Public libraries
 generally serve their own neighborhoods, and can tailor their service to
-the demographics of those neighborhoods. The Portola Middle School,
+the demographics of those neighborhoods. The P------ Middle School,
 however, does not clearly serve the neighborhood in which it sits, since
 local economics have led to poorer student from out of town attending
 the school while the wealthier locals go elsewhere. Finally, there is a
@@ -153,7 +160,7 @@ both among other libraries, and among the community. The school library
 always seems in danger of being closed or abandoned as parents try to
 send their children elsewhere. The Roseville library is seen as a vital
 part of the overall community, one that could never be removed, even
-despite its budget troubles. The advocates for the Portola Middle School
+despite its budget troubles. The advocates for the P------ Middle School
 Library are passionate, but few and with little support, and the sense
 of community comes from the students rather than from the organization.
 

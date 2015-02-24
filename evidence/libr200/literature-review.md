@@ -2,7 +2,6 @@
 title: Helping Patrons with Developmental Disabilities
 subtitle: Literature Review
 date: Fall 2011
-instructor: Robert Boyd
 class: LIBR 200
 abstract: |
     This literature review explores the research that has been published

@@ -1,10 +1,6 @@
 ---
-biblio-files: '/home/jason/docs/school/references'
-bibliography: '/home/jason/docs/school/references.bib'
 class: LIBR 261A
-csl: 'apa.csl'
 date: '12/08/12'
-instructor: Anthony Bernier
 title: Visions of Youth
 ...
 
