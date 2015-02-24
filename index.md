@@ -8,6 +8,8 @@ This website serves as a record and archive of my e-Portfolio, created as my cul
 
 SJSU offers the e-Portfolio as an alternative to a Master's thesis for graduate students to demonstrate their mastery of the skills and knowledge necessary for entry into the library profession. Rather than a single thesis on a narrow topic, students must show their mastery of fourteen major skill areas, or Competencies, along with a reflection of their MLIS career and a statement of their Professional Philosophy. This is accomplished by selecting evidence from throughout their career, usually taken from assignments from previous coursework but any other relevant experience can be used as well, and then a considered and detailed defense of that evidence and how it proves the student's command of the particular competency.
 
+This portfolio is as complete as I am able to make it. All evidence that is still available has been included. It has not been revised or edited, except to remove the names of real persons in the interest of privacy, including coauthors of any group projects.
+
 I created this e-Portfolio in the Fall of 2013. Based on the strength of this portfolio and my previous coursework, I was awarded the Master's in Library and Information Science in December of 2013.
 
 Thank you for your time,
