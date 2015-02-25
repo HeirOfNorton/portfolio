@@ -11,10 +11,10 @@ body {
 header {
 
   //Site title
-  a {}
+  a.site-title {}
   
   //Top navigation
-  nav {
+  nav.site-nav {
     ul {
       li {
         a {}
@@ -92,6 +92,10 @@ article {
   
   blockquote {}
   
+  blockquote.competency {}
+  
+  code {}
+  
   ul, ol {}
   
   h1 {}
@@ -99,3 +103,4 @@ article {
   h3 {}
   h4 {}
 }
+
