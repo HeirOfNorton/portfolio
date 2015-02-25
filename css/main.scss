@@ -1,53 +1,221 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-@charset "utf-8";
+// font definitions
 
+$main-font: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+$nav-font: "Arial Black", Gadget, sans-serif;
+$title-font: Verdana, Geneva, sans-serif;
+$code-font: "Courier New", Courier, monospace;
 
+$base-color: #E6E6B8;
+$dark-color: #171712;
 
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$main-width: 34em;
+$sidebar-width: 10em;
 
-$spacing-unit:     30px;
+//stuff from html5boilerplate
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+::-moz-selection {
+  background: #3366FF;
+  text-shadow: none;
+}
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+::selection {
+  background: #3366FF;
+  text-shadow: none;
+}
 
-// Width of the content area
-$content-width:    800px;
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
 
-$on-palm:          600px;
-$on-laptop:        800px;
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
 
+textarea {
+    resize: vertical;
+}
 
+@media print {
+    *,
+    *:before,
+    *:after {
+        background: transparent !important;
+        color: #000 !important;
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
 
-// Using media queries with like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links that are fragment identifiers,
+     * or use the `javascript:` pseudo protocol
+     */
+
+    a[href^="#"]:after,
+    a[href^="javascript:"]:after {
+        content: "";
+    }
+
+    pre {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    /*
+     * Printing Tables:
+     * http://css-discuss.incutio.com/wiki/Printing_Tables
+     */
+
+    thead {
+        display: table-header-group;
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
     }
 }
 
 
+// defaults, if not otherwise overridden:
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting",
-        "form"
-;
+html {
+  color: black;
+  font-size: 1em;
+  line-height: 1.4;
+  
+  backgroud-color: $base-color;
+  
+  font-family: $main-font;
+  
+}
+
+h1, h2 h3, h4, h5 {
+  font-family: $title-font;
+  margin: 2em 2em 2em 2em;
+}
+
+.subtitle {
+  font: {
+    weight: normal;
+    size: 1.8em;
+  }
+}
+
+.competency {
+  font-size: 1.1em;
+  margin-top: .5em;
+  margin-bottom: .5em;
+  margin-left: 1em;
+  
+  padding-top: .5em;
+  padding-bottom: .5em;
+  
+  border-top: 2px solid #333333;
+  border-bottom: 2px solid #333333;
+}
+
+.top-header {
+  background-color: $dark-color;
+  color: white;
+  width: 100%
+  font-family: $nav-font;
+}
+
+.site-title {
+  font-size: 1.5em;
+  width: 50%;
+  display: block;
+  padding: .5em .5em .5em .5em;
+}
+
+.site-nav {
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 50%;
+    min-width: 30em;
+  }
+  a {
+    display: block;
+    &:hover {
+      border: 1px solid white;
+      font-weight: bold;
+    }
+  }
+  li {
+    display: inline;
+  }
+}
+
+.side-nav {
+  background-color: $dark-color;
+  color: white;
+  margin: 1.5em 1.5em 1.5em 1.5em;
+  padding: .5em .5em .5em .5em;
+  width: $sidebar-width;
+  float: left;
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  a {
+    display: block;
+    &:hover {
+      border: 1px solid white;
+      font-weight: bold;
+    }
+  }
+  hr {
+    color: white;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+}
+
+article {
+  float: left;
+  margin-left: ($sidebar-width + 3);
+  width: $main-width;
+}
+
+
+
