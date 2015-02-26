@@ -2,7 +2,7 @@
 title: P------ Middle School Library Strategic Plan (Part One)
 class: LIBR 203
 date: Fall 2011
-Authors:
+authors:
     - N------ B------
     - A------ B------
     - P------ D------
@@ -29,7 +29,7 @@ abstract: |
 <aside>
 
 This report was created as a group project. All names of group members,
-as well as identifying references to the Middle School invovled, have
+as well as identifying references to the Middle School involved, have
 been censored in the interest of privacy.
 
 </aside>

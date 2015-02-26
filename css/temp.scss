@@ -1,45 +1,4 @@
 
-
-
-//main color/background/font/etc settings
-body {
-
-}
-
-//top navigation
-
-header {
-
-  //Site title
-  a.site-title {}
-  
-  //Top navigation
-  nav.site-nav {
-    ul {
-      li {
-        a {}
-      }
-    }
-  }
-
-}
-
-//footer, with copyright stuff
-footer {
-  p {}
-}
-
-//side navigation
-
-nav.side-nav {
-  h2 {}
-  ul {
-    li {
-      a {}
-    }
-  }
-}
-
 //article stuff
 
 article {
@@ -76,6 +35,8 @@ article.evidence {
     hr {}
   }
 }
+---
+...
 
 //the regular stuff
 

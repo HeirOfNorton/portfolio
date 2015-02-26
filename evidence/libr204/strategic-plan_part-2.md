@@ -15,7 +15,7 @@ abstract: |
     centers.
 class: LIBR 204
 date: '11/04/2011'
-Authors:
+authors:
     - N------ B------
     - A------ B------
     - P------ D------
