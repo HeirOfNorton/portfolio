@@ -58,7 +58,7 @@ worked together.
 
 <aside>
 
-[Web 2.0: Group Presentation]({{ site.url }}/evidence/libr210/presentation/)
+[Web 2.0: Group Presentation]({{ site.baseurl }}/evidence/libr260a/presentation/)
 
 </aside>
 
@@ -137,9 +137,9 @@ accomplish.
 
 <aside>
 
-[Transcript of Planning Chat Session]({{ site.url }}/evidence/libr210/chat-log/)
+[Transcript of Planning Chat Session]({{ site.baseurl }}/evidence/libr210/chat-log/)
 
-[Group Self-Assessment]({{ site.url }}/evidence/libr210/self-assessment/)
+[Group Self-Assessment]({{ site.baseurl }}/evidence/libr210/self-assessment/)
 
 </aside>
 

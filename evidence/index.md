@@ -45,7 +45,7 @@ title: Supporting Evidence of Competencies
 ###LIBR 260A: Programming and Services for Children
 
 -   [One-Month Storytime Plan]({{ site.baseurl }}/evidence/libr260a/storytime/)
--   [Web 2.0: Group Presentation]({{ site.baseurl }}/evidence/libr210/presentation/)
+-   [Web 2.0: Group Presentation]({{ site.baseurl }}/evidence/libr260a/presentation/)
 
 
 ###LIBR 285: Research Methods in Library Science

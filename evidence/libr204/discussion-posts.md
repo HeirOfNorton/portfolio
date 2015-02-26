@@ -24,7 +24,7 @@ Evans and Ward (2007) also point out the rise of Responsibility and Profit cente
 
 One of the most exciting technologies being developed id the field of Augmented Reality. I think this will have a major impact on information science, simply because it put more information at the fingertips of people looking for it. Benkoil (2009) describes several ways that AR is already being used to supplement the world, and more way it will continue to do so. There has been a growing trend for years of combining and cross-referencing information, seen in user-edited wikis and social linking sites like del.icio.us and Slashdot. As technology brings that trend outside of the desktop and puts in the world in front of us. Why look for reviews of a restaurant online when you can look at a restaurant through your smart phone and get the reviews right in front of you? This trend has started with relatively simple and fun stuff, but it will continue with more serious endeavors. Benkoil imagines AR being integrated with news stories, connecting locations witht he events that have happened there. It will go further, not only with events, but also comments about the location, and videos taken at that location. It will also affect book sand libraries, by connecting books to locations, by annotating books and offering commentary, by breaking down the bariers between different media and the world the represent. Computers and the internet have connected information, but with AR almost everything can be connected the same way.
 
-<div clss="references">
+<div class="references">
 
 ##References##
 

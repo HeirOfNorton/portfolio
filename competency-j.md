@@ -64,7 +64,7 @@ underlying concepts and how they can be applied in practice.
 
 <aside>
 
-[Article Review]({{ site.url }}/evidence/noclass/review/)
+[Article Review]({{ site.baseurl }}/evidence/noclass/review/)
 
 </aside>
 
@@ -140,7 +140,7 @@ with them as equal partners.
 
 <aside>
 
-[Discussion Posts]({{ site.url }}/evidence/libr228/discussion-posts/)
+[Discussion Posts]({{ site.baseurl }}/evidence/libr228/discussion-posts/)
 
 </aside>
 

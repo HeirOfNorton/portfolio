@@ -60,7 +60,7 @@ persons with developmental disabilities in libraries today.
 
 <aside>
 
-[Neighborhood Walkabout]({{ site.url }}/evidence/libr266/walkabout/)
+[Neighborhood Walkabout]({{ site.baseurl }}/evidence/libr266/walkabout/)
 
 </aside>
 
@@ -135,7 +135,7 @@ is living in that community.
 
 <aside>
 
-[Visions of Youth]({{ site.url }}/evidence/libr261a/visions-of-youth/)
+[Visions of Youth]({{ site.baseurl }}/evidence/libr261a/visions-of-youth/)
 
 </aside>
 
@@ -212,7 +212,7 @@ of my attitude toward any group that I serve in the future.
 
 <aside>
 
-[Helping Patrons with Developmental Disabilities]({{ site.url }}/evidence/libr200/finalpaper/)
+[Helping Patrons with Developmental Disabilities]({{ site.baseurl }}/evidence/libr200/finalpaper/)
 
 </aside>
 

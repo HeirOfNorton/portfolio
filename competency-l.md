@@ -60,7 +60,7 @@ Public Library.
 
 <aside>
 
-[Literature Review]({{ site.url }}/evidence/libr200/literature-review/)
+[Literature Review]({{ site.baseurl }}/evidence/libr200/literature-review/)
 
 </aside>
 
@@ -134,7 +134,7 @@ clearly related, evidence that does exist.
 
 <aside>
 
-[Research Proposal]({{ site.url }}/evidence/libr285/research-proposal/)
+[Research Proposal]({{ site.baseurl }}/evidence/libr285/research-proposal/)
 
 </aside>
 
@@ -213,7 +213,7 @@ genuine verifiable data, and not just guesswork and opinions.
 
 <aside>
 
-[Critique of a Qualitative Analysis]({{ site.url }}/evidence/libr285/qualitative-analysis/)
+[Critique of a Qualitative Analysis]({{ site.baseurl }}/evidence/libr285/qualitative-analysis/)
 
 </aside>
 

@@ -66,7 +66,7 @@ library.
 
 <aside>
 
-[Philosophy of Management]({{ site.url }}/evidence/libr204/philosophy-of-management/)
+[Philosophy of Management]({{ site.baseurl }}/evidence/libr204/philosophy-of-management/)
 
 </aside>
 
@@ -140,7 +140,7 @@ career, I will never have to stand alone.
 
 <aside>
 
-[Archive Outreach Speech]({{ site.url }}/evidence/libr256/outreachspeech/)
+[Archive Outreach Speech]({{ site.baseurl }}/evidence/libr256/outreachspeech/)
 
 </aside>
 
@@ -212,7 +212,7 @@ do what I can to build those connections to the right people.
 
 <aside>
 
-[Strategic Plan for a Middle School, Part 2]({{ site.url }}/evidence/libr204/strategic-plan_part-2/)
+[Strategic Plan for a Middle School, Part 2]({{ site.baseurl }}/evidence/libr204/strategic-plan_part-2/)
 
 </aside>
 

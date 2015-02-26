@@ -1,6 +1,6 @@
----  
+---
 class: LIBR 266  
-date: 02/12/13
+date: '02/12/13'
 title: Going Walkabout
 ...
 

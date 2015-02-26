@@ -61,7 +61,7 @@ access of materials.
 
 <aside>
 
-[Collection Analysis of a Public Library]({{ site.url }}/evidence/libr266/collectionanalysis/)
+[Collection Analysis of a Public Library]({{ site.baseurl }}/evidence/libr266/collectionanalysis/)
 
 </aside>
 
@@ -143,7 +143,7 @@ complete.
 
 <aside>
 
-[YA Library Services Toolbox]({{ site.url }}/evidence/libr261a/toolbox/)
+[YA Library Services Toolbox]({{ site.baseurl }}/evidence/libr261a/toolbox/)
 
 </aside>
 
@@ -221,7 +221,7 @@ tools to make those decisions.
 
 <aside>
 
-[Final Exam]({{ site.url }}/evidence/libr256/final/)
+[Final Exam]({{ site.baseurl }}/evidence/libr256/final/)
 
 </aside>
 

@@ -52,9 +52,9 @@ discussion of its challenges.
 
 <aside>
 
-[Library Visit - Reference Desk]({{ site.url }}/evidence/libr232/visit-reference/)
+[Library Visit - Reference Desk]({{ site.baseurl }}/evidence/libr232/visit-reference/)
 
-[Strategic Plan for a Middle School, Part 1]({{ site.url }}/evidence/libr204/strategic-plan_part-1/)
+[Strategic Plan for a Middle School, Part 1]({{ site.baseurl }}/evidence/libr204/strategic-plan_part-1/)
 
 </aside>
 
@@ -183,7 +183,7 @@ allowed and expected of me.
 
 <aside>
 
-[Tour of the Charles Babbage Institute]({{ site.url }}/evidence/libr256/archivetour/)
+[Tour of the Charles Babbage Institute]({{ site.baseurl }}/evidence/libr256/archivetour/)
 
 </aside>
 

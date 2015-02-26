@@ -57,10 +57,10 @@ with information even when there is no reference interview possible.
 
 Reference Question Exercises:
 
--   [Exercises #1]({{ site.url }}/evidence/libr210/exercises1/)
--   [Exercises #2]({{ site.url }}/evidence/libr210/exercises2/)
--   [Exercises #3]({{ site.url }}/evidence/libr210/exercises3/)
--   [Exercises #4]({{ site.url }}/evidence/libr210/exercises4/)
+-   [Exercises #1]({{ site.baseurl }}/evidence/libr210/exercises1/)
+-   [Exercises #2]({{ site.baseurl }}/evidence/libr210/exercises2/)
+-   [Exercises #3]({{ site.baseurl }}/evidence/libr210/exercises3/)
+-   [Exercises #4]({{ site.baseurl }}/evidence/libr210/exercises4/)
 
 
 </aside>
@@ -216,7 +216,7 @@ access.
 
 <aside>
 
-[William Shakespeare: Research Pathfinder]({{ site.url }}/evidence/libr228/william-shakespeare/)
+[William Shakespeare: Research Pathfinder]({{ site.baseurl }}/evidence/libr228/william-shakespeare/)
 
 </aside>
 

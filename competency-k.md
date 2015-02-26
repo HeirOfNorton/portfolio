@@ -60,7 +60,7 @@ writing research essays.
 
 <aside>
 
-[One-Month Storytime Plan]({{ site.url }}/evidence/libr260a/storytime/)
+[One-Month Storytime Plan]({{ site.baseurl }}/evidence/libr260a/storytime/)
 
 </aside>
 
@@ -129,7 +129,7 @@ learning with these answers and the resources they point to.
 
 <aside>
 
-[Outline for Training Session]({{ site.url }}/evidence/libr261a/training-outline/)
+[Outline for Training Session]({{ site.baseurl }}/evidence/libr261a/training-outline/)
 
 </aside>
 
@@ -204,7 +204,7 @@ benefits all users of my organization.
 
 <aside>
 
-[8 Steps to Writing a Paper]({{ site.url }}/evidence/libr210/8-steps/)
+[8 Steps to Writing a Paper]({{ site.baseurl }}/evidence/libr210/8-steps/)
 
 </aside>
 

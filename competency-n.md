@@ -61,7 +61,7 @@ report comparing and critiquing two library children's departments.
 
 <aside>
 
-[Report on Reference Services]({{ site.url }}/evidence/libr210/reference-report/)
+[Report on Reference Services]({{ site.baseurl }}/evidence/libr210/reference-report/)
 
 </aside>
 
@@ -117,7 +117,7 @@ my own service.
 
 <aside>
 
-[Program Design Elements]({{ site.url }}/evidence/libr261a/program-design/)
+[Program Design Elements]({{ site.baseurl }}/evidence/libr261a/program-design/)
 
 </aside>
 
@@ -186,7 +186,7 @@ project, and have a much better grasp on how to do so in the future.
 
 <aside>
 
-[Library Visit - Children's Area]({{ site.url }}/evidence/libr232/visit-childrens/)
+[Library Visit - Children's Area]({{ site.baseurl }}/evidence/libr232/visit-childrens/)
 
 </aside>
 

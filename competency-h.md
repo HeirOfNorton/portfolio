@@ -45,7 +45,7 @@ research guides.
 
 <aside>
 
-[Discussion Posts]({{ site.url }}/evidence/libr204/discussion-posts/)
+[Discussion Posts]({{ site.baseurl }}/evidence/libr204/discussion-posts/)
 
 </aside>
 
@@ -113,7 +113,7 @@ for the benefits they offer to an information organization.
 
 <aside>
 
-[E-Books in Public Libraries]({{ site.url }}/evidence/libr266/ebooks/)
+[E-Books in Public Libraries]({{ site.baseurl }}/evidence/libr266/ebooks/)
 
 </aside>
 
@@ -190,7 +190,7 @@ All we can do, for now, is try to keep up.
 
 <aside>
 
-[Comparison of Two LibGuides]({{ site.url }}/evidence/libr228/libguide-evaluation/)
+[Comparison of Two LibGuides]({{ site.baseurl }}/evidence/libr228/libguide-evaluation/)
 
 </aside>
 

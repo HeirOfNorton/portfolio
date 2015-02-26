@@ -52,7 +52,7 @@ article databases.
 
 <aside>
 
-[Design for Database of Supreme Court Justices]({{ site.url }}/evidence/libr202/database/)
+[Design for Database of Supreme Court Justices]({{ site.baseurl }}/evidence/libr202/database/)
 
 </aside>
 
@@ -124,7 +124,7 @@ queries and the more complex requirements of relational databases.
 
 <aside>
 
-[OPAC Comparison]({{ site.url }}/evidence/libr202/comparison/)
+[OPAC Comparison]({{ site.baseurl }}/evidence/libr202/comparison/)
 
 </aside>
 
@@ -189,7 +189,7 @@ in mind, and not rely only on my own experiences with them.
 
 <aside>
 
-[Research Using Databases]({{ site.url }}/evidence/libr210/research/)
+[Research Using Databases]({{ site.baseurl }}/evidence/libr210/research/)
 
 </aside>
 

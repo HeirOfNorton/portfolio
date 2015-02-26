@@ -1,7 +1,7 @@
 ---
 biblio-files: '/home/jason/docs/school/references'
 bibliography: '/home/jason/docs/school/references.bib'
-competenct: |
+competency: |
     Each graduate of the Master of Library and Information Science program
     is able to demonstrate understanding of basic principles and standards
     involved in organizing information, including classification,
@@ -118,9 +118,9 @@ created, which also required me to organize the items involved.
 
 <aside>
 
-[Cataloging Exercises]({{ site.url }}/evidence/libr248/cataloging-exercises/)
+[Cataloging Exercises]({{ site.baseurl }}/evidence/libr248/cataloging-exercises/)
 
-[Cataloging a Human]({{ site.url }}/evidence/libr248/cataloging-human/)
+[Cataloging a Human]({{ site.baseurl }}/evidence/libr248/cataloging-human/)
 
 </aside>
 
@@ -179,7 +179,7 @@ being entered and why.
 
 <aside>
 
-[Non-Book Cataloging at a Library]({{ site.url }}/evidence/libr248/nonbookitems/)
+[Non-Book Cataloging at a Library]({{ site.baseurl }}/evidence/libr248/nonbookitems/)
 
 </aside>
 
@@ -257,7 +257,7 @@ locate the number on the shelf.
 
 <aside>
 
-[Archival Finding Aid]({{ site.url }}/evidence/libr256/findingaid/)
+[Archival Finding Aid]({{ site.baseurl }}/evidence/libr256/findingaid/)
 
 </aside>
 

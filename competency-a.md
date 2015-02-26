@@ -217,7 +217,7 @@ between their ideals and the reality of the law.
 
 <aside>
 
-[Discussion Posts]({{ site.url }}/evidence/libr200/discussion-posts/)
+[Discussion Posts]({{ site.baseurl }}/evidence/libr200/discussion-posts/)
 
 </aside>
 
@@ -286,7 +286,7 @@ professionals as this dichotomy continues to evolve.
 
 <aside>
 
-[Challenges for Libraries]({{ site.url }}/evidence/libr232/challenges/)
+[Challenges for Libraries]({{ site.baseurl }}/evidence/libr232/challenges/)
 
 </aside>
 
@@ -348,7 +348,7 @@ possible benefit for the most users.
 
 <aside>
 
-[Filtering Internet Use for Teen Patrons]({{ site.url }}/evidence/libr261a/internet-filtering/)
+[Filtering Internet Use for Teen Patrons]({{ site.baseurl }}/evidence/libr261a/internet-filtering/)
 
 </aside>
 

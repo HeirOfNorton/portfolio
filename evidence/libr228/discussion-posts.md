@@ -176,8 +176,8 @@ of indie musicians as well as known professionals. DeviantArt has a
 similarly large showcase of amateur visual artists, as well as a few
 professionals. Video sites like Youtube and Blip have long showcased
 amateur filmmakers and musicians. Some, such as the producers at
-ChannelAwesome (creators of <thatguywiththeglasses.com> and
-<blisteredthumbs.com> along with many affiliates) are even making a
+ChannelAwesome (creators of <http://thatguywiththeglasses.com> and
+<http://blisteredthumbs.com> along with many affiliates) are even making a
 living with their "amateur" creations.
 
 Obviously it is impossible to be familiar with all such sites and their
