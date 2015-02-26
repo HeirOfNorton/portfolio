@@ -459,5 +459,5 @@ _A confused young man approaches the reference desk._
 
 ---------
 
-The characters of Colleen and Dewey were ~~stolen~~ borrowed from [Unshelved](www.unshelved.com), by Gene Ambaum and Bill Barnes.
+The characters of Colleen and Dewey were <del>stolen</del> borrowed from [Unshelved](www.unshelved.com), by Gene Ambaum and Bill Barnes.
 
